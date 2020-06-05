@@ -360,7 +360,8 @@ if (!doNotTrack) {
 
     
     <div class="post-content">
-      <p>前天看到了这样一条新闻：</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/gears233/blog/image/images/CnSCG/0.jpg" alt=""></p>
+<p>前天看到了这样一条新闻：</p>
 <blockquote>
 <p>圣城家园被摧毁——「藏匿于互联网14年之久、网站注册会员达200万人次、点击量达13亿次……12月12日，记者从山西省公安厅获悉，“圣城家园”特大网站侵权盗版案已被山西警方彻底摧毁，目前该案已移送检察机关进行起诉。」</p>
 </blockquote>
@@ -448,45 +449,36 @@ if (!doNotTrack) {
   
   
 
-  
 
-  
-  
 
-  
 
-  
 
-  
 
-    
 
-  <div id="comments"></div>
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-  <script>
-    if(window.location.hash){
-        var checkExist = setInterval(function() {
-            if ($(window.location.hash).length) {
-              $('html, body').animate({scrollTop: $(window.location.hash).offset().top-90}, 700);
-              clearInterval(checkExist);
-            }
-        }, 10);
-    }
-  </script>
-  <script type="text/javascript">
-    new Valine({
-        el: '#comments' ,
-        appId: 'Tfx20FdD0Km0aH3e2uGFHFuJ-MdYXbMMI',
-        appKey: 'XDrUlUX10dNfUvdphfuj9mN6',
-        notify:  false , 
-        verify:  false , 
-        avatar:'retro', 
-        placeholder: '无需注册即可进行评论, 建议填写邮箱以获取评论回复提醒, 所填邮箱他人不可见',
-        visitor:  false 
+<div id="comments"></div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
+<script>
+  if (window.location.hash) {
+    var checkExist = setInterval(function () {
+      if ($(window.location.hash).length) {
+        $('html, body').animate({ scrollTop: $(window.location.hash).offset().top - 90 }, 700);
+        clearInterval(checkExist);
+      }
+    }, 10);
+  }
+</script>
+<script type="text/javascript">
+  new Valine({
+    el: '#comments',
+    appId: 'Tfx20FdD0Km0aH3e2uGFHFuJ-MdYXbMMI',
+    appKey: 'XDrUlUX10dNfUvdphfuj9mN6',
+    avatar: 'retro',
+    recordIP: true,
+    placeholder: '无需注册即可进行评论, 建议填写邮箱以获取评论回复提醒, 所填邮箱他人不可见',
+    visitor:  false 
     });
-  </script>
-
+</script>
         </div>
       </div>
     </main>

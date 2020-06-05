@@ -8,17 +8,17 @@
     <language>zh-cn</language>
     <copyright>Refun,Personal.</copyright>
     <lastBuildDate>Thu, 23 Jan 2020 08:45:10 +0800</lastBuildDate>
-
+    
         <atom:link href="https://refun.eu.org/index.xml" rel="self" type="application/rss+xml" />
-
-
+    
+    
     <item>
       <title>友情链接</title>
       <link>https://refun.eu.org/friends.html</link>
       <pubDate>Wed, 12 Feb 2020 09:01:09 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/friends.html</guid>
-
+      
         <description>&lt;h5 id=&#34;以上友链按添加时间先后排序&#34;&gt;（以上友链按添加时间先后排序）&lt;/h5&gt;
 &lt;h4 id=&#34;center-感谢上述朋友们的关注与支持-center&#34;&gt;&lt;!-- raw HTML omitted --&gt;🎉 感谢上述朋友们的关注与支持 ~&lt;!-- raw HTML omitted --&gt;&lt;/h4&gt;
 &lt;hr&gt;
@@ -49,16 +49,16 @@
 &lt;/blockquote&gt;
 &lt;h5 id=&#34;友链申请正常我将于24h内处理完毕原则上我不会主动删除任何已添加的友链如有特殊情形我将主动提前与你联系&#34;&gt;友链申请正常我将于24h内处理完毕，原则上我不会主动删除任何已添加的友链，如有特殊情形，我将主动提前与你联系。&lt;/h5&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>El psy congroo</title>
       <link>https://refun.eu.org/about.html</link>
       <pubDate>Sat, 01 Feb 2020 13:36:48 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/about.html</guid>
-
+      
         <description>&lt;h3 id=&#34;这是一条闲鱼的博客网站&#34;&gt;这是一条闲鱼的博客网站&lt;/h3&gt;
 &lt;p&gt;本来当初建站的时候就想着要少折腾，不过最后确实又折腾了不少东西 = =&lt;/p&gt;
 &lt;p&gt;说实话，博客托管在 Google Blogger 上，我仍然觉得是个不错的选择，尤其是对我这种编程小白来说，但是由于各种原因，国内访问总是可能会遇到一点障碍，另外随着我折腾的东西变多，发现了一个难以避免的问题——网站整体变得愈发的累赘了。&lt;/p&gt;
@@ -110,16 +110,16 @@
 &lt;p&gt;所用到的一些资源（感谢！）：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/union.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>留言板</title>
       <link>https://refun.eu.org/chat.html</link>
       <pubDate>Sat, 01 Feb 2020 13:36:48 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/chat.html</guid>
-
+      
         <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/ssn.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;&lt;strong&gt;新开了个页面，记录一些想法，至于写点啥，心里还没个AC数&amp;hellip;.   逃~&lt;/strong&gt;&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;想了一下，就把这个页面用作是留言板吧！来互相伤害吧！&lt;/strong&gt;&lt;/p&gt;
@@ -166,17 +166,18 @@
 &lt;li&gt;默默向 Github 提交了第一个自己修改的程序&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>为你的头像戴上口罩</title>
       <link>https://refun.eu.org/post/mask.html</link>
       <pubDate>Thu, 23 Jan 2020 08:45:10 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/mask.html</guid>
-
-        <description>&lt;p&gt;还记得圣诞节那段时间流行的给头像戴上圣诞帽的事情么？今天在 Github 上看到有人做了个类似的东西——&lt;a href=&#34;https://github.com/idealclover/Wear-A-Mask&#34;&gt;Wear A Mask&lt;/a&gt;。&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mask/0.png&#34; alt=&#34;&#34;&gt;
+还记得圣诞节那段时间流行的给头像戴上圣诞帽的事情么？今天在 Github 上看到有人做了个类似的东西——&lt;a href=&#34;https://github.com/idealclover/Wear-A-Mask&#34;&gt;Wear A Mask&lt;/a&gt;。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;采用微信小程序编写，实现了为头像戴上口罩的功能。基于 jasscia/ChristmasHat，在其上进行了魔改。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -185,17 +186,18 @@
 &lt;p&gt;有好集中口罩样式可以选，不过实际我体验了下，直接使用头像生成的图片会比较模糊，所以还是建议单独从相册内上传图片，操作完后保存到相册再换上头像会比较好。另外，由于是保存到了相册，那么，其他的社交网络上的头像也能利用这个小程序来生成制作更换了。&lt;/p&gt;
 &lt;p&gt;😷 珍爱生命，从我做起。&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>在Chrome浏览器中手动安装与更新第三方拓展</title>
       <link>https://refun.eu.org/post/chrome.html</link>
       <pubDate>Tue, 21 Jan 2020 08:32:17 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/chrome.html</guid>
-
-        <description>&lt;p&gt;Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;https://gs.statcounter.com/&#34;&gt;statcounter网站&lt;/a&gt;上抓取的近10年的浏览器市场份额数据显示，如今的chrome凭借着开源的Chromium项目，已经占据了60%以上的市场份额。正如故事中，勇者杀死了恶龙却成为了新的恶龙那样，Chrome虽然慢慢有成为下一个“IE”的趋势，但是个话题还是留待以后有机会再讨论吧。&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/0.jpg&#34; alt=&#34;&#34;&gt;
+Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;https://gs.statcounter.com/&#34;&gt;statcounter网站&lt;/a&gt;上抓取的近10年的浏览器市场份额数据显示，如今的chrome凭借着开源的Chromium项目，已经占据了60%以上的市场份额。正如故事中，勇者杀死了恶龙却成为了新的恶龙那样，Chrome虽然慢慢有成为下一个“IE”的趋势，但是个话题还是留待以后有机会再讨论吧。&lt;/p&gt;
 &lt;p&gt;前几天，Microsoft Edge Chromium版的正式版终于发布了，成为了众多基于Chromium的浏览器的一员。而我们日常能接触到的像是搜狗、360极速、QQ等浏览器，本质上也都是Chromium浏览器换了个皮肤，修改了些插件而已。一如国内各大手机厂商的开发的xx os系统那样，本质也都是基于Android的修改而已。当然，修改意味着一些本土化的适应，更贴近用户使用需求习惯，但是国内厂商不可避免地会偷偷夹带一些“私货”。很多浏览器常驻后台的同时，时不时弹个弹窗广告，美其名曰“温馨提示”。最近几年被骂的多了，大部分的浏览器终于舍得在设置的小角落内添加了关闭某些推荐的选项了，但是用户信息追踪这个事情却一直没有停下来。浏览器作为一个天然的互联网入口，虽说现在受到了来自各家APP方面的挑战，但是不管APP也好，还是浏览器也罢，还是绕不开用户信息追踪的习惯。习惯了Chrome的简约，即便有一些使用上的姿势要求（比如墙的问题），最后在体验了很多浏览器后依然还是用ta.&lt;/p&gt;
 &lt;p&gt;不过，最近几年，随着人们对安全与隐私问题普遍愈发重视，Chrome也慢慢变得更封闭起来。Chrome的成功很大程度上与其丰富的插件拓展密不可分，但是也有相当一部分优秀的插件如今很难再通过Chrome商店的审核，在使用过程中有着不小的影响。网络上很多解决方案因为版本迭代而大多已不再适用，但是往往这些方案依然被搜索引擎列示在前面，也依然有很多网站无脑地重复着人类复读机的本质，改个时间戳就全文转载了事。在此，将目前有效的一些方案整理列示如下，希望后来人能少踩些坑吧。（啊，终于写到主题了，我真是太啰嗦了&amp;hellip;）&lt;/p&gt;
 &lt;p&gt;以下方案理论上适用于所有基于Chromium的浏览器，但是我也没测试过，很多国产浏览器仍然还是支持直接安装的。&lt;/p&gt;
@@ -300,17 +302,18 @@
 &lt;p&gt;最后，根据Chrome官方的说法：当Chrome用作市场推广及分销合作伙伴时会记录并发送用户纪录，如何时何处下载的信息。但Google解释从Google官方网站上下载的Chrome都不带有这一记录用户信息的功能。国内各种分发渠道上下载的安装包可能都有一定的文件被修改的风险，所以我也从Chrome 官网上下载并上传了一份安装包到网盘，有需要的可以自取：&lt;a href=&#34;https://www.lanzous.com/b00t8flcb&#34;&gt;https://www.lanzous.com/b00t8flcb&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;另外，推荐一个拓展——&lt;a href=&#34;https://chrome.zzzmh.cn/info?token=kahndhhhcnignmbbpiobmdlgjhgfkfil&#34;&gt;PP谷歌访问助手&lt;/a&gt;，安装后可以直接访问Google旗下网站和服务，方便更新拓展等，如果你需要用到的拓展刚好谷歌商店里面有的话，还是直接用商店版本的，一劳永逸，也就不需要进行上述的那些额外操作了。&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>人人网回归，可以去备份你的黑历史了！</title>
       <link>https://refun.eu.org/post/renren.html</link>
       <pubDate>Mon, 13 Jan 2020 08:23:57 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/renren.html</guid>
-
-        <description>&lt;p&gt;前段时间， 看到新闻说几年前的人人网又回来了，重新开发上线了新的app，而原有的账号数据及历史记录也悉数保留。看到新闻的时候，心里突然“咯噔”一下，虽然人人网承载了很多人大学时期的回忆，但是回忆也可能意味着——黑历史。&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/renren/0.jpg&#34; alt=&#34;&#34;&gt;
+前段时间， 看到新闻说几年前的人人网又回来了，重新开发上线了新的app，而原有的账号数据及历史记录也悉数保留。看到新闻的时候，心里突然“咯噔”一下，虽然人人网承载了很多人大学时期的回忆，但是回忆也可能意味着——黑历史。&lt;/p&gt;
 &lt;p&gt;几年前曾经偶然访问过人人的网站，但那个时候已经莫名其妙地变成了美女直播网站，很是怪异。不过想想也多半是无奈，最开始校内的兴起到后来改名人人的转变，仿佛要成为中国的Facebook。但是后面的故事是，微信等社交app的兴起不断挤压了人人的空间，再后来直播又开始火了，人人转型押注直播，但没做起来后似乎就没有然后了&amp;hellip;&lt;/p&gt;
 &lt;p&gt;2018年11月，人人网以2000万美金出售给了多牛传媒，时隔一年之后，人人网以一种全新的方式回来了。完全去除了直播的入口，新版更接近于记忆中的社交软件的样子了。在苹果的 APP store 里面搜了下，APP上架一段时间后已经积累了一定的用户了，评论区还挺有意思的，有不少在吐槽黑历史的，当然还有不少人是来考古怀旧的。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/renren/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -382,17 +385,18 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;就可以了。因为目前 -b 日志功能暂时有些问题，所以工具只能抓取状态、留言、相册等内容，可以去关注下开发者，等待后续修复。当然，也不排除人人网站后续再有什么改动导致这个工具失效，所以趁着这段时间还能用，及时备份下自己曾经的黑历史还是不错的。&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>500&#43; 免费的中文编程电子书</title>
       <link>https://refun.eu.org/post/programming.html</link>
       <pubDate>Sat, 11 Jan 2020 08:00:29 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/programming.html</guid>
-
-        <description>&lt;p&gt;&lt;strong&gt;文章转载自小众软件：&lt;a href=&#34;https://www.appinn.com/free-programming-books-chinese&#34;&gt;https://www.appinn.com/free-programming-books-chinese&lt;/a&gt;&lt;/strong&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/programming/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文章转载自小众软件：&lt;a href=&#34;https://www.appinn.com/free-programming-books-chinese&#34;&gt;https://www.appinn.com/free-programming-books-chinese&lt;/a&gt;&lt;/strong&gt;
 Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Henry Be&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/library?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ebookfoundation.org/&#34;&gt;免费电子书基金会&lt;/a&gt;（Free Ebook Foundation）维护了一个超级庞大的电子书库，涉及 30 种语言，拥有超过 10000 万本免费许可的电子书，以及 57000 多种由&lt;a href=&#34;https://www.gutenberg.org/wiki/Main_Page&#34;&gt;古腾堡计划&lt;/a&gt;生产的图书，其中编程领域涉及 3000 多本免费资源。而其中文项目中，也拥有接近 500 本免费资源。@Appinn&lt;/p&gt;
 &lt;p&gt;这些资源是 Free Ebook Foundation 维护的 &lt;a href=&#34;https://ebookfoundation.github.io/free-programming-books/&#34;&gt;Free Programming Books&lt;/a&gt;（免费编程电子书），其中的&lt;a href=&#34;https://ebookfoundation.github.io/free-programming-books/free-programming-books-zh.html&#34;&gt;中文项目&lt;/a&gt;拥有两个大类别：&lt;strong&gt;编程语言无关&lt;/strong&gt;与&lt;strong&gt;编程语言相关&lt;/strong&gt;，来看一下目录：&lt;/p&gt;
@@ -493,17 +497,18 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;学习，是学不完的。&lt;/p&gt;
 &lt;p&gt;看，你缺的是学习资源吗？不，你缺的，是阻止你将精力从书本转移到手机屏幕上的那个人。&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>一个能在线生成gif表情包的网站</title>
       <link>https://refun.eu.org/post/meme.html</link>
       <pubDate>Tue, 31 Dec 2019 07:47:22 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/meme.html</guid>
-
-        <description>&lt;p&gt;微信朋友圈前几天开放了朋友圈评论使用表情的功能，虽然短短几天这个功能就被暂时下线了，不过这几天时间里我的朋友圈还是被各种表情包刷屏了。现如今，各种聊天软件的表情包功能几乎已经成为了标配，部分还能根据用户输入的关键词来匹配推荐相关的表情图片。不过，这些表情包基本都局限于现成的图库，而仅有极少数能支持额外修改表情图下面的配文。类似这样：&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/0.jpg&#34; alt=&#34;&#34;&gt;
+微信朋友圈前几天开放了朋友圈评论使用表情的功能，虽然短短几天这个功能就被暂时下线了，不过这几天时间里我的朋友圈还是被各种表情包刷屏了。现如今，各种聊天软件的表情包功能几乎已经成为了标配，部分还能根据用户输入的关键词来匹配推荐相关的表情图片。不过，这些表情包基本都局限于现成的图库，而仅有极少数能支持额外修改表情图下面的配文。类似这样：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;对于普通用户来说，除了收集各种来源的表情包以外，稍微有点动手能力的还可以选择自己给图片配文成为“专属”表情包，但是制作一个gif动图的表情包依然有些麻烦。今天整理浏览器书签的时候，偶然发现以前闲逛的时候收藏了这么个网站：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -520,17 +525,18 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;相对于普通用户来说已经足够简单，手机端也能简单操作完成，降低了使用的门槛。而对于更加追求个性化的用户来说，可以注册个账号，注册登陆后生成的表情不仅会保存到账户下，还可以使用自定义上传模板及修改的功能，具体上传方法的教程视频如下：&lt;a href=&#34;https://www.bilibili.com/video/av43293295/&#34;&gt;https://www.bilibili.com/video/av43293295/&lt;/a&gt; 有需求的可以自行前往了解。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Have fun！&lt;/strong&gt;&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>聊聊个人信用的话题</title>
       <link>https://refun.eu.org/post/credit.html</link>
       <pubDate>Thu, 19 Dec 2019 18:36:39 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/credit.html</guid>
-
-        <description>&lt;p&gt;记得大学毕业后的第一年，工作了3个月左右，留下了些社保痕迹之后，申请了我人生的第一张信用卡。我自从申请信用卡以来，逐渐养成了定期查询个人征信情况的习惯，基本每年6月、12月查询一次。而昨日，又刚去银行查询打印了一版数据，就来聊聊个人信用的话题吧。&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/0.png&#34; alt=&#34;&#34;&gt;
+记得大学毕业后的第一年，工作了3个月左右，留下了些社保痕迹之后，申请了我人生的第一张信用卡。我自从申请信用卡以来，逐渐养成了定期查询个人征信情况的习惯，基本每年6月、12月查询一次。而昨日，又刚去银行查询打印了一版数据，就来聊聊个人信用的话题吧。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;随着我们生活中的各类信用行为逐步被纳入征信，个人信用的重要性不言而喻。而除了中国人民银行官方的央行征信，也有不少第三方征信公司针对各自的生态圈建立自己的信用体系，相对较为知名的比如阿里巴巴主导的芝麻信用和京东主导的小白信用等。我们在平时使用支付宝花呗、京东白条等相关的服务时，相关的信用行为便会被上述的机构记录并纳入评估。后来，不管是由于相关政策促使还是各家觉得各弄各小圈子的征信并不互通也有各种不便，中国互联网金融协会牵头，拉上各家成立了下面这个机构——百行征信。&lt;/p&gt;
@@ -558,17 +564,18 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;Tips：推荐个APP：银联云闪付  来管理银行卡。中国银联官方出品，可以免手续费还信用卡与小额转账，实时查询信用卡账单和银行卡收支明细等。注册及下载链接：&lt;a href=&#34;https://wallet.95516.com/s/wl/webV3/activity/cjctoc/html/snsIndex.html?r=5f33e3fc0de5028939cb47a02dd51c29&amp;amp;code=ctoc00000000015&amp;amp;shareCode=moreshare&amp;amp;channel=7&#34;&gt;点我或者扫描下列二维码&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>聊聊听歌这件小事</title>
       <link>https://refun.eu.org/post/music.html</link>
       <pubDate>Wed, 18 Dec 2019 18:48:07 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/music.html</guid>
-
-        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/0.png&#34; alt=&#34;&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;孤身一人，坐于公交车上，身心俱疲，而耳边却不断传来各种嘈杂的声音，聊天声音有之，车辆穿行间或的喇叭声有之，小孩肆意的哭喊声亦有之。掏出耳机，塞入耳中，那一刻，似乎便获得了救赎。&lt;/p&gt;
 &lt;p&gt;还记得最早时期从百度上搜索然后下载各种歌曲再传输到mp3里面听，到最后习惯在电脑上用千千静听，然后慢慢依赖于诸如酷狗、酷我等软件在线听歌。直至2013年网易云音乐的诞生，因其更为贴近的音乐推荐算法与评论区的强大，最终转向网易云音乐。再后面，2015年国内音乐版权大战的兴起，再到2018年版权大战的落幕，虽然QQ音乐几乎一统天下，但网易云似乎缓过来了。作为勉强算的上半个ACG爱好者，网易云音乐Lv9的用户等级无言记录着我的听歌历程。不得不说，网易云对于ACG热爱者来说算是很好的，虽然版权方面比较弱，但是在ACG方面歌曲比QQ音乐要强很多，同时前期积累起来的口碑在年轻群体中很受欢迎。然而，似乎一切都抵不过一个“然而”，平静的水面下其实仍然暗流汹涌，自己歌单内喜欢的歌曲仍在慢慢一首首变灰，我意识到就连听歌这件小事都在慢慢变得奢侈起来···&lt;/p&gt;
@@ -614,17 +621,18 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;相关使用教程：&lt;a href=&#34;https://c7sky.com/mp3tag-douban-web-source-v2.html&#34;&gt;https://c7sky.com/mp3tag-douban-web-source-v2.html&lt;/a&gt;&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>又一扇窗被关闭：“圣城家园”被摧毁有感</title>
       <link>https://refun.eu.org/post/cnscg.html</link>
       <pubDate>Mon, 16 Dec 2019 18:23:06 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/cnscg.html</guid>
-
-        <description>&lt;p&gt;前天看到了这样一条新闻：&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/CnSCG/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;前天看到了这样一条新闻：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;圣城家园被摧毁——「藏匿于互联网14年之久、网站注册会员达200万人次、点击量达13亿次……12月12日，记者从山西省公安厅获悉，“圣城家园”特大网站侵权盗版案已被山西警方彻底摧毁，目前该案已移送检察机关进行起诉。」&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -636,17 +644,18 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;ps：网站虽然关闭了，不过有粉丝建立了个PT资源共享站，地址就不贴了，有需要可以留言。&lt;/p&gt;
 &lt;p&gt;pps：2020.1.16起，PT站貌似也已经关闭了，卒。&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>聊聊互联网安全与隐私-电子邮箱篇</title>
       <link>https://refun.eu.org/post/mail.html</link>
       <pubDate>Tue, 10 Dec 2019 17:33:40 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/mail.html</guid>
-
-        <description>&lt;p&gt;电子邮箱，几乎是成了每个人网络上的通行证，大部分的网站都建立了以电子邮箱为基础的账户管理体系，电子邮箱服务也确实给我们的生活带来了很多便利。&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/0.jpg&#34; alt=&#34;&#34;&gt;
+电子邮箱，几乎是成了每个人网络上的通行证，大部分的网站都建立了以电子邮箱为基础的账户管理体系，电子邮箱服务也确实给我们的生活带来了很多便利。&lt;/p&gt;
 &lt;p&gt;记得我自己当年注册的第一个电子邮箱应该是新浪的邮箱，不过印象中用了较短的一段时间就慢慢废弃了。后来QQ的流行，很多人自然而然的也同时获得了一个与QQ号码一致的QQ邮箱，而QQ邮箱也变成了很多人默认的邮箱并沿用至今。今天聊的内容大概分为两个部分，第一部分是关于各家邮箱优缺点方面的个人主观感受，另一部分是分享下我个人关于邮箱使用的一些想法和建议。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;先说说国内提供的一些邮箱服务，有个总体上的优势是更加本土化及访问速度方面都很快。&lt;/p&gt;
@@ -698,17 +707,18 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;最后说下第一类需求，我个人使用的是Gmail，并将其设置为了所有银行等金融机构的默认联系邮箱，同时使用ProtonMail作为备用密保邮箱，以防Gmail在某些特殊情况下无法使用，或者丢失两步验证后用于重置信息等。&lt;/p&gt;
 &lt;p&gt;而对于一般用户而言，如果想要使用类似的方案，建议可以直接使用临时邮箱用于第三类需求；维持目前常用邮箱（如QQ，网易等）不变用于第二类需求；分别注册个Outlook和ProtonMail，然后将涉及金融方面的邮箱变更为Outlook，然后将ProtonMail作为各类重要的app或者网站的密保邮箱。最后，对于使用QQ邮箱的用户，强烈建议设置邮箱别名以隐藏自己的QQ号信息，并在以后使用中默认使用邮箱别名。&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>让Menu键从冷板凳上站起来</title>
       <link>https://refun.eu.org/post/menu.html</link>
       <pubDate>Wed, 20 Nov 2019 17:23:08 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/menu.html</guid>
-
-        <description>&lt;p&gt;前段时间，微软家新出了款蓝牙键盘，外观设计上面中规中矩，没有太多可说的，不过媒体早前报道会添加Office专用键终于出现了。
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/0.jpg&#34; alt=&#34;&#34;&gt;
+前段时间，微软家新出了款蓝牙键盘，外观设计上面中规中矩，没有太多可说的，不过媒体早前报道会添加Office专用键终于出现了。
 &lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;原本空格键右侧的 win 键和菜单键被分别替换成了 Office 专用键和表情键。无聊的我去翻看了下有关的文档，微软官方取了个巧，新增加的这两个键并非是单独重新定义了新的键值，而是变成了某几个快捷键的组合。在 Windows10 系统下，比如表情键的功能，实际上我们按 win+；键也能实现同样的效果。而 Office 键就稍微有点复杂，它替代的是 Shift+Ctrl+win+Alt 这四个键的组合，比如 Office+W 会打开 Word ，而 Shift+Ctrl+win+Alt+W 也同样能实现。不过有个 Office 专用键可能还是稍稍方便那么一点点，另外目前 Office 专用键搭配的还不多，官方文档里面我也只看到了 Office+W/T/Y/O/P/D/L/X/N 分别代表打开 Word、Teams、Yammer、Outlook、Power point、Onedrive、LinkedIn、Excel 和Onenote. 最后还有一个比较特别的是 Office+Space（空格）打开的是表情，和表情键的功能一样。至于，后面针对 Office 的各项应用会不会有新的快捷键加入，还得等微软官方后续宣布。&lt;/p&gt;
 &lt;p&gt;看了眼我正在码字的机械键盘，Filco 忍者二代茶轴，难道它不香嘛？独特的侧刻设计没有长时间使用磨损键盘字符的困扰，几年用下来手感依旧很好。在不考虑更新硬件的情况下，又想要享受到新特性，那就只能从软件着手了，而从软件入手的话又顺便能增加些别的功能了。&lt;/p&gt;
@@ -808,17 +818,18 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
 &lt;p&gt;网盘下载链接：&lt;a href=&#34;https://www.lanzous.com/i7guc3i&#34;&gt;https://www.lanzous.com/i7guc3i&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>随便聊聊互联网安全与隐私-密码篇</title>
       <link>https://refun.eu.org/post/password.html</link>
       <pubDate>Mon, 18 Nov 2019 14:34:19 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/password.html</guid>
-
-        <description>&lt;p&gt;看到今年10月末，国家发布了密码法。大概就是密码泄露等情形，总算是有特定的法律来进行约束和处罚了。我们个人作为普通用户能做的除了尽量不透露个人信息外，就是努力设置个安全些的密码了。引用百科上对强密码的定义：&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/password/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;随着互联网越发发展深入，我们个人作为普通用户上网安全方面能做的除了尽量不透露个人信息外，就是努力设置个安全些的密码了。引用百科上对强密码的定义：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;强密码应该具有如下特征：
 强密码长度至少有 8 个字符，不包含全部或部分用户帐户名，至少包含以下四类字符中的三类：大写字母、小写字母、数字，以及键盘上的符号（如 !、@、#）。字典中查不到。不是命令名。不是人名。不是用户名。不是计算机名。没有规则的大小写字母、数字、符号的组合，部分登录系统支持全角符号以及中文、其他语言等特殊符号的输入。&lt;/p&gt;
@@ -845,17 +856,18 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
 &lt;p&gt;KeePass虽然安全且好用，但是跨设备用起来还是比较麻烦。最后，分享下我自己的一些做法吧，我自己是用KeePass把近400个网站及app的密码（难以置信，几年下来注册及使用过这么多，改密码花了我一整天时间）改过一遍后存储了所有的密码，以及各种证件照片等，同时使用Google的密码同步功能将密码同步在Google上，Google账户开启了两步验证加上Google自身的强大基本可以避免Google上的密码泄露。同步的好处是，这些密码在我使用Android手机访问的时候可以同步过来，自动填充。当然，使用Google的同步需要你有科学的上网姿势才行。退而求其次的话，我也很推荐使用KeePass的Android及Ios客户端来管理同步密码，只是用起来稍微再要复杂一点点。&lt;/p&gt;
 &lt;p&gt;而对于不想折腾的普通用户，可以去用lastpass和1Password这样的服务，但是LastPass也发生过泄露的事件，所以这些第三方的服务也未必足够安全。最后，其实最好的保护密码的方式就是不输密码，尤其是国内的app，由于强制需要手机号验证，那设置一个自己都不知道的密码，然后每次使用手机验证码登陆未尝不是个好方法。另外有些网站论坛啥的，内容设置了回复可见的，这种时候工具人登场的机会就来了。去用一些临时性的邮箱注册，搜索关键词“临时邮箱”就能看到很多提供这种服务的网站，手机号码验证也是类似。尽量避免暴露自己的手机号码及主力邮箱，最大程度避免泄密的可能性。&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
     <item>
       <title>互联网时代的文件快递柜</title>
       <link>https://refun.eu.org/post/transfer.html</link>
       <pubDate>Sun, 17 Nov 2019 14:34:19 +0800</pubDate>
-
+      
       <guid>https://refun.eu.org/post/transfer.html</guid>
-
-        <description>&lt;p&gt;今天偶然发现了一个还不错的网站-&lt;a href=&#34;https://cowtransfer.com/&#34;&gt;奶牛快传：https://cowtransfer.com&lt;/a&gt;，解决了我日常电脑端和移动端互传文件的一个痛点。先引用网站上的介绍文字来大致说明下ta是干嘛的：&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/transfer/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;今天偶然发现了一个还不错的网站-&lt;a href=&#34;https://cowtransfer.com/&#34;&gt;奶牛快传：https://cowtransfer.com&lt;/a&gt;，解决了我日常电脑端和移动端互传文件的一个痛点。先引用网站上的介绍文字来大致说明下ta是干嘛的：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目前传统的文件传输、云存储工具基本上或多或少有着上传或者下载速度受限、强制登录等其他限制，这样一来使用时间成本很高，使用体验欠佳，大大降低了使用效率。奶牛快传就是从「传文件」这个普通的日常行为的痛点中出生的。在文件传输服务2016年上线以来，吸纳了大量来自全球的学生、广告创意、设计行业及互联网相关公司的用户。奶牛快传的操作界面极简，界面中心只留了一个大按钮，添加文件后，文件会被快速上传，随后跳出该文件的下载链接、二维码及小程序码。整个上传过程只需要2-3次交互。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -891,8 +903,8 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
 &lt;p&gt;2020.2.15 Update:&lt;/p&gt;
 &lt;p&gt;发现“奶牛快传”页面的二维码分享功能又恢复了&amp;hellip;&lt;/p&gt;
 </description>
-
+      
     </item>
-
+    
   </channel>
 </rss>
