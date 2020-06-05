@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>电子邮箱 on Refun</title>
+    <link>https://refun.eu.org/tags/%E7%94%B5%E5%AD%90%E9%82%AE%E7%AE%B1.html</link>
+    <description>Recent content in 电子邮箱 on Refun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Refun,Personal.</copyright>
+    <lastBuildDate>Tue, 10 Dec 2019 17:33:40 +0800</lastBuildDate>
+    
+	<atom:link href="https://refun.eu.org/tags/%E7%94%B5%E5%AD%90%E9%82%AE%E7%AE%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>聊聊互联网安全与隐私-电子邮箱篇</title>
+      <link>https://refun.eu.org/post/mail.html</link>
+      <pubDate>Tue, 10 Dec 2019 17:33:40 +0800</pubDate>
+      
+      <guid>https://refun.eu.org/post/mail.html</guid>
+      <description>电子邮箱，几乎是成了每个人网络上的通行证，大部分的网站都建立了以电子邮箱为基础的账户管理体系，电子邮箱服务也确实给我们的生活带来了很多便利。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>表情包 on Refun</title>
+    <link>https://refun.eu.org/tags/%E8%A1%A8%E6%83%85%E5%8C%85.html</link>
+    <description>Recent content in 表情包 on Refun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Refun,Personal.</copyright>
+    <lastBuildDate>Tue, 31 Dec 2019 07:47:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://refun.eu.org/tags/%E8%A1%A8%E6%83%85%E5%8C%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一个能在线生成gif表情包的网站</title>
+      <link>https://refun.eu.org/post/meme.html</link>
+      <pubDate>Tue, 31 Dec 2019 07:47:22 +0800</pubDate>
+      
+      <guid>https://refun.eu.org/post/meme.html</guid>
+      <description>微信朋友圈前几天开放了朋友圈评论使用表情的功能，虽然短短几天这个功能就被暂时下线了，不过这几天时间里我的朋友圈还是被各种表情包刷屏了。现如今</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>密码 on Refun</title>
+    <link>https://refun.eu.org/tags/%E5%AF%86%E7%A0%81.html</link>
+    <description>Recent content in 密码 on Refun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Refun,Personal.</copyright>
+    <lastBuildDate>Mon, 18 Nov 2019 14:34:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://refun.eu.org/tags/%E5%AF%86%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>随便聊聊互联网安全与隐私-密码篇</title>
+      <link>https://refun.eu.org/post/password.html</link>
+      <pubDate>Mon, 18 Nov 2019 14:34:19 +0800</pubDate>
+      
+      <guid>https://refun.eu.org/post/password.html</guid>
+      <description>看到今年10月末，国家发布了密码法。大概就是密码泄露等情形，总算是有特定的法律来进行约束和处罚了。我们个人作为普通用户能做的除了尽量不透露个</description>
+    </item>
+    
+  </channel>
+</rss>
