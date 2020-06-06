@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>头像 on Refun</title><link>https://refun.eu.org/tags/%E5%A4%B4%E5%83%8F.html</link><description>Recent content in 头像 on Refun</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Refun,Personal.</copyright><lastBuildDate>Thu, 23 Jan 2020 08:45:10 +0800</lastBuildDate><atom:link href="https://refun.eu.org/tags/%E5%A4%B4%E5%83%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>为你的头像戴上口罩</title><link>https://refun.eu.org/post/mask.html</link><pubDate>Thu, 23 Jan 2020 08:45:10 +0800</pubDate><guid>https://refun.eu.org/post/mask.html</guid><description>还记得圣诞节那段时间流行的给头像戴上圣诞帽的事情么？今天在 Github 上看到有人做了个类似的东西——Wear A Mask。 采用微信小程序编写，实现了为头</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>头像 on Refun</title>
+    <link>https://refun.eu.org/tags/%E5%A4%B4%E5%83%8F.html</link>
+    <description>Recent content in 头像 on Refun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Refun,Personal.</copyright>
+    <lastBuildDate>Thu, 23 Jan 2020 08:45:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://refun.eu.org/tags/%E5%A4%B4%E5%83%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>为你的头像戴上口罩</title>
+      <link>https://refun.eu.org/post/mask.html</link>
+      <pubDate>Thu, 23 Jan 2020 08:45:10 +0800</pubDate>
+      
+      <guid>https://refun.eu.org/post/mask.html</guid>
+      <description>还记得圣诞节那段时间流行的给头像戴上圣诞帽的事情么？今天在 Github 上看到有人做了个类似的东西——Wear A Mask。 采用微信小程序编写，实现了为头</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>二步验证 on Refun</title><link>https://refun.eu.org/tags/%E4%BA%8C%E6%AD%A5%E9%AA%8C%E8%AF%81.html</link><description>Recent content in 二步验证 on Refun</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Refun,Personal.</copyright><lastBuildDate>Mon, 18 Nov 2019 14:34:19 +0800</lastBuildDate><atom:link href="https://refun.eu.org/tags/%E4%BA%8C%E6%AD%A5%E9%AA%8C%E8%AF%81/index.xml" rel="self" type="application/rss+xml"/><item><title>随便聊聊互联网安全与隐私-密码篇</title><link>https://refun.eu.org/post/password.html</link><pubDate>Mon, 18 Nov 2019 14:34:19 +0800</pubDate><guid>https://refun.eu.org/post/password.html</guid><description>随着互联网越发发展深入，我们个人作为普通用户上网安全方面能做的除了尽量不透露个人信息外，就是努力设置个安全些的密码了。引用百科上对强密码的定</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>二步验证 on Refun</title>
+    <link>https://refun.eu.org/tags/%E4%BA%8C%E6%AD%A5%E9%AA%8C%E8%AF%81.html</link>
+    <description>Recent content in 二步验证 on Refun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Refun,Personal.</copyright>
+    <lastBuildDate>Mon, 18 Nov 2019 14:34:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://refun.eu.org/tags/%E4%BA%8C%E6%AD%A5%E9%AA%8C%E8%AF%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>随便聊聊互联网安全与隐私-密码篇</title>
+      <link>https://refun.eu.org/post/password.html</link>
+      <pubDate>Mon, 18 Nov 2019 14:34:19 +0800</pubDate>
+      
+      <guid>https://refun.eu.org/post/password.html</guid>
+      <description>随着互联网越发发展深入，我们个人作为普通用户上网安全方面能做的除了尽量不透露个人信息外，就是努力设置个安全些的密码了。引用百科上对强密码的定</description>
+    </item>
+    
+  </channel>
+</rss>
