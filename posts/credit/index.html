@@ -22,8 +22,8 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" media="print" onload="this.media='all'" />
-        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" /></noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB&#43;Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Noto&#43;Serif&#43;SC:wght@400;500;700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" media="print" onload="this.media='all'" />
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB&#43;Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Noto&#43;Serif&#43;SC:wght@400;500;700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" /></noscript>
 
     <meta name="author" content="Gears" /><meta name="description" content="个人信用的重要性不言而喻，除了中国人民银行官方的央行征信，也有不少第三方征信公司针对各自的生态圈建立自己的信用体系，今天就来聊聊有关个人信用的话题" />
 
@@ -561,7 +561,7 @@
                 document.body.appendChild(script);
             };
             getScript({
-                src: 'https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js',
+                src: 'https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js',
                 onload: () => {
                     newValine();
                 }
@@ -576,10 +576,24 @@
             appId: 'Tfx20FdD0Km0aH3e2uGFHFuJ-MdYXbMMI',
             appKey: 'XDrUlUX10dNfUvdphfuj9mN6',
             placeholder: '无需注册即可进行评论, 建议填写邮箱以获取评论回复提醒, 所填邮箱他人不可见',
+            path: location.pathname,
             avatar: 'retro',
+            meta: ["nick","mail","link"],
+            pageSize:  10 ,
+            lang: 'zh-cn',
+            visitor:  false ,
+            highlight:  true ,
+            avatarForce:  false ,
+            recordIP:  false ,
+            serverURLs: '',
+            emojiCDN: '',
+            emojiMaps: {},
+            enableQQ:  false ,
+            requiredFields: []
         });
     }
 </script>
+
         
 
         

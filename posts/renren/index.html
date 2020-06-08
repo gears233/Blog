@@ -22,8 +22,8 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" media="print" onload="this.media='all'" />
-        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" /></noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB&#43;Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Noto&#43;Serif&#43;SC:wght@400;500;700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" media="print" onload="this.media='all'" />
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB&#43;Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Noto&#43;Serif&#43;SC:wght@400;500;700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" /></noscript>
 
     <meta name="author" content="Gears" /><meta name="description" content="前段时间， 看到新闻说几年前的人人网又回来了，重新开发上线了新的app，而原有的账号数据及历史记录也悉数保留。看到新闻的时候，心里突然“咯噔”一下，虽然人人网承载了很多人大学时期的回忆，但是回忆也可能意……
     
@@ -607,7 +607,7 @@
                 document.body.appendChild(script);
             };
             getScript({
-                src: 'https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js',
+                src: 'https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js',
                 onload: () => {
                     newValine();
                 }
@@ -622,10 +622,24 @@
             appId: 'Tfx20FdD0Km0aH3e2uGFHFuJ-MdYXbMMI',
             appKey: 'XDrUlUX10dNfUvdphfuj9mN6',
             placeholder: '无需注册即可进行评论, 建议填写邮箱以获取评论回复提醒, 所填邮箱他人不可见',
+            path: location.pathname,
             avatar: 'retro',
+            meta: ["nick","mail","link"],
+            pageSize:  10 ,
+            lang: 'zh-cn',
+            visitor:  false ,
+            highlight:  true ,
+            avatarForce:  false ,
+            recordIP:  false ,
+            serverURLs: '',
+            emojiCDN: '',
+            emojiMaps: {},
+            enableQQ:  false ,
+            requiredFields: []
         });
     }
 </script>
+
         
 
         
