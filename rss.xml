@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 08 Jun 2020 14:33:31 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2020 15:13:29 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://gears233.github.io/rss.xml" />
         
@@ -38,13 +38,13 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mask/0.png&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mask/0.png&#34; alt=&#34;&#34;&gt;
 还记得圣诞节那段时间流行的给头像戴上圣诞帽的事情么？今天在 Github 上看到有人做了个类似的东西——&lt;a href=&#34;https://github.com/idealclover/Wear-A-Mask&#34;&gt;Wear A Mask&lt;/a&gt;。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;采用微信小程序编写，实现了为头像戴上口罩的功能。基于 jasscia/ChristmasHat，在其上进行了魔改。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;由于作者弄了个小程序，小程序的名字就叫“我要戴口罩”，用起来就很方便了。直接微信扫描上面的这个小程序码，或者在微信端长按识别就能用了。下面是简单的界面演示：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mask/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mask/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;有好集中口罩样式可以选，不过实际我体验了下，直接使用头像生成的图片会比较模糊，所以还是建议单独从相册内上传图片，操作完后保存到相册再换上头像会比较好。另外，由于是保存到了相册，那么，其他的社交网络上的头像也能利用这个小程序来生成制作更换了。&lt;/p&gt;
 &lt;p&gt;😷 珍爱生命，从我做起。&lt;/p&gt;
 </description>
@@ -93,7 +93,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/0.jpg&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/0.jpg&#34; alt=&#34;&#34;&gt;
 Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;https://gs.statcounter.com/&#34;&gt;statcounter网站&lt;/a&gt;上抓取的近10年的浏览器市场份额数据显示，如今的chrome凭借着开源的Chromium项目，已经占据了60%以上的市场份额。正如故事中，勇者杀死了恶龙却成为了新的恶龙那样，Chrome虽然慢慢有成为下一个“IE”的趋势，但是个话题还是留待以后有机会再讨论吧。&lt;/p&gt;
 &lt;p&gt;前几天，Microsoft Edge Chromium版的正式版终于发布了，成为了众多基于Chromium的浏览器的一员。而我们日常能接触到的像是搜狗、360极速、QQ等浏览器，本质上也都是Chromium浏览器换了个皮肤，修改了些插件而已。一如国内各大手机厂商的开发的xx os系统那样，本质也都是基于Android的修改而已。当然，修改意味着一些本土化的适应，更贴近用户使用需求习惯，但是国内厂商不可避免地会偷偷夹带一些“私货”。很多浏览器常驻后台的同时，时不时弹个弹窗广告，美其名曰“温馨提示”。最近几年被骂的多了，大部分的浏览器终于舍得在设置的小角落内添加了关闭某些推荐的选项了，但是用户信息追踪这个事情却一直没有停下来。浏览器作为一个天然的互联网入口，虽说现在受到了来自各家APP方面的挑战，但是不管APP也好，还是浏览器也罢，还是绕不开用户信息追踪的习惯。习惯了Chrome的简约，即便有一些使用上的姿势要求（比如墙的问题），最后在体验了很多浏览器后依然还是用ta.&lt;/p&gt;
 &lt;p&gt;不过，最近几年，随着人们对安全与隐私问题普遍愈发重视，Chrome也慢慢变得更封闭起来。Chrome的成功很大程度上与其丰富的插件拓展密不可分，但是也有相当一部分优秀的插件如今很难再通过Chrome商店的审核，在使用过程中有着不小的影响。网络上很多解决方案因为版本迭代而大多已不再适用，但是往往这些方案依然被搜索引擎列示在前面，也依然有很多网站无脑地重复着人类复读机的本质，改个时间戳就全文转载了事。在此，将目前有效的一些方案整理列示如下，希望后来人能少踩些坑吧。（啊，终于写到主题了，我真是太啰嗦了...）&lt;/p&gt;
@@ -102,9 +102,9 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;p&gt;&lt;strong&gt;方案一：从 crx 安装与更新（推荐）&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;自Chrome 73 之后的版本，由于Chrome改变了头部信息打包方式，原本网上很多教程内写的直接拖放安装的方法就失效了。直接拖放安装很多较早版本的 crx 文件，会提示：程序包无效 CRXHEADERINVALID 错误。如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;而即使是安装新打包的 crx 文件，也需要添加白名单（仅适用于 Windows ），否则会出现禁用提示，并且无法正常使用。如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;添加白名单方法如下：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;以管理员身份开启一个 cmd 命令行窗口；&lt;/li&gt;
@@ -140,11 +140,11 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;li&gt;执行完成后，重新启动 Chrome 浏览器；&lt;/li&gt;
 &lt;li&gt;此时浏览器菜单会多出一个菜单 由贵单位管理，如下图所示：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;同时在 chrome://extensions/ 页面会多出以下文本：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;此时即可按以下步骤正常安装和使用 crx 包，并且不再出现 该扩展程序未列在 Chrome 网上应用店中 之类的提示。&lt;/li&gt;
 &lt;/ul&gt;
@@ -152,11 +152,11 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;ul&gt;
 &lt;li&gt;首先，先修改 crx 文件后缀为 zip；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;然后直接拖放到拓展程序页面进行安装，然后在拓展程序页面便可以看到这个固定值ID了：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;最后，充分发挥其工具人属性，按下删除按钮，再按上述的方法添加白名单后再拖放 crx 文件安装。&lt;/li&gt;
 &lt;/ul&gt;
@@ -168,18 +168,18 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;p&gt;&lt;strong&gt;方案二：从文件夹加载方式安装与更新&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;使用该方式时，浏览器每次启动时会提示“请停用以开发者模式运行的扩展程序”（如下图），需要关闭提示方可正常使用（或者也可以考虑安装 Chrome Dev开发者版本，该版本无此提示但有可能有许多各种不明 bug）：
-&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;下载对应的压缩包文件并将压缩包内所有文件至指定目录，如 D盘根目录：&lt;/li&gt;
 &lt;li&gt;在 Chrome 地址栏中输入：chrome://extensions/ 回车，进入扩展程序；&lt;/li&gt;
 &lt;li&gt;勾选 开发者模式；&lt;/li&gt;
 &lt;li&gt;点击 加载已解压的扩展程序；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;选择之前的源码目录（如 D:\chrome ）；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;开始使用。&lt;/li&gt;
 &lt;/ul&gt;
@@ -191,7 +191,7 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;li&gt;在 Chrome 地址栏中输入：chrome://extensions/ 回车，进入扩展程序；&lt;/li&gt;
 &lt;li&gt;找到对应的插件拓展，点击右下角刷新图标即可更新到最新版本；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/chrome/6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/chrome/6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;如看不到最新内容，可尝试重新打开浏览器。&lt;/li&gt;
 &lt;/ul&gt;
@@ -244,11 +244,11 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/renren/0.jpg&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/renren/0.jpg&#34; alt=&#34;&#34;&gt;
 前段时间， 看到新闻说几年前的人人网又回来了，重新开发上线了新的app，而原有的账号数据及历史记录也悉数保留。看到新闻的时候，心里突然“咯噔”一下，虽然人人网承载了很多人大学时期的回忆，但是回忆也可能意味着——黑历史。&lt;/p&gt;
 &lt;p&gt;几年前曾经偶然访问过人人的网站，但那个时候已经莫名其妙地变成了美女直播网站，很是怪异。不过想想也多半是无奈，最开始校内的兴起到后来改名人人的转变，仿佛要成为中国的Facebook。但是后面的故事是，微信等社交app的兴起不断挤压了人人的空间，再后来直播又开始火了，人人转型押注直播，但没做起来后似乎就没有然后了...&lt;/p&gt;
 &lt;p&gt;2018年11月，人人网以2000万美金出售给了多牛传媒，时隔一年之后，人人网以一种全新的方式回来了。完全去除了直播的入口，新版更接近于记忆中的社交软件的样子了。在苹果的 APP store 里面搜了下，APP上架一段时间后已经积累了一定的用户了，评论区还挺有意思的，有不少在吐槽黑历史的，当然还有不少人是来考古怀旧的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/renren/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/renren/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;由于新版依然保留了用户多年前的数据，如果你还能记得原先的账号和密码的话能直接登陆查看。只是怀旧一波的话，在APP登陆体验下看看就好，新版的人人还是留给后面的小鲜肉们去玩吧。不过，我也不知道人人重新上线后还能撑多久，于是萌生了导出备份数据的想法。于是，网上搜索了一番，在Github上找到了下面要说的这个程序——&lt;a href=&#34;https://github.com/whusnoopy/renrenBackup&#34;&gt;renrenBackup&lt;/a&gt;.一个意外之喜是ta除了可以备份自己的数据，还可以备份他人的黑历史，感觉可玩性一下子高了起来。&lt;/p&gt;
 &lt;p&gt;刚好最近一段时间在捣鼓玩玩 Python，而这个小工具也是用 Python 编写的，本质上是一个网络爬虫工具。所以，对于 macOS 与 Linux 用户，由于已经集成了 Python，所以可以直接打开终端安装依赖然后运行。而作者也针对 Windows 用户单独开发了程序，不需要额外再去安装其他东西了。&lt;/p&gt;
 &lt;hr&gt;
@@ -256,11 +256,11 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;ul&gt;
 &lt;li&gt;下载小工具并解压缩文件到某个目录下，比如我就解压缩到了D盘根目录。（文件可以在&lt;a href=&#34;https://github.com/whusnoopy/renrenBackup/releases&#34;&gt;GitHub的release页面&lt;/a&gt;下载，如果下载比较慢的可以下载我自己上传到网盘的这个：&lt;a href=&#34;https://www.lanzous.com/i8n2sxe&#34;&gt;https://www.lanzous.com/i8n2sxe&lt;/a&gt;）；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/renren/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/renren/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;进入文件夹后，下面的这个程序是不能直接双击运行的，需要在地址栏输入 cmd 然后回车后打开命令提示符进行操作；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/renren/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/renren/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;执行 renrenBackup.exe fetch -e email -p password -s -g -a 来抓取账号为 email 密码是 password 的用户信息；&lt;/li&gt;
 &lt;li&gt;抓取后，在命令提示符下执行 renrenBackup.exe runserver 后，可以在浏览器里打开 localhost:5000 来查看抓取后的展示；&lt;/li&gt;
@@ -360,7 +360,7 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
                 
                 
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/programming/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/programming/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;文章转载自小众软件：&lt;a href=&#34;https://www.appinn.com/free-programming-books-chinese&#34;&gt;https://www.appinn.com/free-programming-books-chinese&lt;/a&gt;&lt;/strong&gt;
 Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Henry Be&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/library?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ebookfoundation.org/&#34;&gt;免费电子书基金会&lt;/a&gt;（Free Ebook Foundation）维护了一个超级庞大的电子书库，涉及 30 种语言，拥有超过 10000 万本免费许可的电子书，以及 57000 多种由&lt;a href=&#34;https://www.gutenberg.org/wiki/Main_Page&#34;&gt;古腾堡计划&lt;/a&gt;生产的图书，其中编程领域涉及 3000 多本免费资源。而其中文项目中，也拥有接近 500 本免费资源。@Appinn&lt;/p&gt;
@@ -456,8 +456,8 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;每一个分类点击即可直达，具体分类下，比如 HTML/CSS 与 iOS 分类、操作系统，就直接链到电子书：&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/programming/1.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/programming/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;每一个分类点击即可直达，具体分类下，比如 HTML/CSS 与 iOS 分类、操作系统，就直接链到电子书：&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/programming/1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/programming/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;任何人都可以在 &lt;a href=&#34;https://github.com/EbookFoundation/free-programming-books&#34;&gt;GitHub&lt;/a&gt; 为该项目做贡献。这些书都可以免费使用。基本上，你能从这些免费的电子书中学到关于电脑知识、关于编程，你想要学习的大多数。&lt;/p&gt;
 &lt;p&gt;学习，是学不完的。&lt;/p&gt;
 &lt;p&gt;看，你缺的是学习资源吗？不，你缺的，是阻止你将精力从书本转移到手机屏幕上的那个人。&lt;/p&gt;
@@ -513,21 +513,21 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/0.jpg&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/0.jpg&#34; alt=&#34;&#34;&gt;
 微信朋友圈前几天开放了朋友圈评论使用表情的功能，虽然短短几天这个功能就被暂时下线了，不过这几天时间里我的朋友圈还是被各种表情包刷屏了。现如今，各种聊天软件的表情包功能几乎已经成为了标配，部分还能根据用户输入的关键词来匹配推荐相关的表情图片。不过，这些表情包基本都局限于现成的图库，而仅有极少数能支持额外修改表情图下面的配文。类似这样：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;对于普通用户来说，除了收集各种来源的表情包以外，稍微有点动手能力的还可以选择自己给图片配文成为“专属”表情包，但是制作一个gif动图的表情包依然有些麻烦。今天整理浏览器书签的时候，偶然发现以前闲逛的时候收藏了这么个网站：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://app.xuty.tk/static/app/index.html&#34;&gt;表情锅：https://app.xuty.tk/static/app/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;由于tk后缀的域名百度搜索引擎不收录，所以这么个网站基本只能靠口口相传来传播了。记得当时添加书签收藏的时候还只能选一些固定的模板来制作表情包，如今网站已经更新升级支持更多的功能了。&lt;/p&gt;
 &lt;p&gt;打开网站，首先看到的是一堆熟悉或者不熟悉的现成的原始模板：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;随便打开一个，以“真香”表情包为例，进去后可以看到这个gif动图默认的几句配文：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在下面的文本框中手动输入所需要修改的文字，部分不需要修改文字的部分可以留空。填写完后点击生成，过几秒后一个动图表情就生成好了，点击下载，保存到本地。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/meme/5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;相对于普通用户来说已经足够简单，手机端也能简单操作完成，降低了使用的门槛。而对于更加追求个性化的用户来说，可以注册个账号，注册登陆后生成的表情不仅会保存到账户下，还可以使用自定义上传模板及修改的功能，具体上传方法的教程视频如下：&lt;a href=&#34;https://www.bilibili.com/video/av43293295/&#34;&gt;https://www.bilibili.com/video/av43293295/&lt;/a&gt; 有需求的可以自行前往了解。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Have fun！&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -576,12 +576,12 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/0.jpg&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/credit/0.jpg&#34; alt=&#34;&#34;&gt;
 记得大学毕业后的第一年，工作了3个月左右，留下了些社保痕迹之后，申请了我人生的第一张信用卡。我自从申请信用卡以来，逐渐养成了定期查询个人征信情况的习惯，基本每年6月、12月查询一次。而昨日，又刚去银行查询打印了一版数据，就来聊聊个人信用的话题吧。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/credit/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/credit/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;随着我们生活中的各类信用行为逐步被纳入征信，个人信用的重要性不言而喻。而除了中国人民银行官方的央行征信，也有不少第三方征信公司针对各自的生态圈建立自己的信用体系，相对较为知名的比如阿里巴巴主导的芝麻信用和京东主导的小白信用等。我们在平时使用支付宝花呗、京东白条等相关的服务时，相关的信用行为便会被上述的机构记录并纳入评估。后来，不管是由于相关政策促使还是各家觉得各弄各小圈子的征信并不互通也有各种不便，中国互联网金融协会牵头，拉上各家成立了下面这个机构——百行征信。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/credit/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;百行征信有限公司是中国第一家、也是目前唯一 一家获得个人征信业务经营许可的市场化公司，由市场自律组织—中国互联网金融协会与芝麻信用、腾讯征信、前海征信、考拉征信、鹏元征信、中诚信征信、中智诚征信、华道征信等8家市场机构按照共商、共建、共享、共赢原则共同发起组建。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -591,7 +591,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;li&gt;线上查询：&lt;a href=&#34;https://ipcrs.pbccrc.org.cn/&#34;&gt;中国人民银行征信中心&lt;/a&gt;的网站&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;主要的流程大致如下图，简单的说就是注册用户，然后进行实名认证后即可进行查询。另外也顺便提示下：征信中心未授权任何第三方应用程序（APP）提供个人信用报告查询服务，为了个人隐私安全，线上仅在官网上去查询，还有就是尽量不要轻易授权各类非银行机构进行征信查询。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/credit/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;线下查询：各地人民银行分支机构现场查询或是人民银行授权的银行网点机器查询&lt;/li&gt;
 &lt;/ul&gt;
@@ -603,7 +603,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;最后，人生总有一点意外。万一哪天真出现违约逾期了，也别去相信某些宣称能提供付费消去不良记录的服务，因为这多半是骗钱的。针对可能出现的逾期，还是有一些办法的，主要有以下几种。首先，信用卡逾期可能不一定是真·逾期，有的银行有宽限期的政策，比如最后的还款期为某月1号，有的银行会宽限3天左右，那么只要在4号前还上账单就不会被视作是逾期；其次是，如果连宽限期都超过了，和银行及时沟通并约定还款有时候还能够补救，让银行暂时不上报逾期行为；最后，如果真的已经上报征信并留下记录，还有一种官方消除的方式——个人信用异议，这也是有些宣称付费消除记录服务实质上进行的操作。这个服务其实是免费提供的，个人可以拨打中国人民银行征信中心客服电话：400-810-8866申请，但是较为便利且成功率比较高的是让记录你逾期信息的银行协助你进行申请提交。而且一般银行的规定中是不需要客户提供实质性证据的，只要客户有一个说得过去的理由银行便应予以采信，比如：因为没有收到银行的信用卡账单的电子邮件导致了逾期（即使银行有邮件成功发送的记录，而你也实际真的也收到了邮件，这个理由依然有效），一般顺利的话最迟两个月这个不良记录就消除了。只要你的逾期情况并不恶劣，银行方面其实也是很乐意协助你来撒个小谎的，毕竟还希望你继续刷他们家的卡。上面的这几个方案，都有赖于个人对信用情况的关注及与银行的良好沟通，而且宽限期不是每家银行都有的（比如宇宙行就没有👎），时长也有差异，还有个别银行是需要客户主动联系银行申请才有。这些就不详细去说了，银行政策也经常变化，还需自行具体关注。当然，最佳的便是永远用不到上面说的那些，祝各位读者花钱愉快的同时还能维护好个人信用！&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Tips：推荐个APP：银联云闪付  来管理银行卡。中国银联官方出品，可以免手续费还信用卡与小额转账，实时查询信用卡账单和银行卡收支明细等。注册及下载链接：&lt;a href=&#34;https://wallet.95516.com/s/wl/webV3/activity/cjctoc/html/snsIndex.html?r=5f33e3fc0de5028939cb47a02dd51c29&amp;amp;code=ctoc00000000015&amp;amp;shareCode=moreshare&amp;amp;channel=7&#34;&gt;点我或者扫描下列二维码&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/credit/5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/credit/5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
                 
                 
@@ -650,7 +650,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/0.jpg&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/0.jpg&#34; alt=&#34;&#34;&gt;
 &lt;/br &gt;&lt;/p&gt;
 &lt;center&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://music.163.com/song/media/outer/url?id=36024034.mp3&#34;&gt;&lt;/audio&gt;&lt;/center&gt;
 &lt;p&gt;孤身一人，坐于公交车上，身心俱疲，而耳边却不断传来各种嘈杂的声音，聊天声音有之，车辆穿行间或的喇叭声有之，小孩肆意的哭喊声亦有之。掏出耳机，塞入耳中，那一刻，似乎便获得了救赎。&lt;/p&gt;
@@ -662,24 +662,24 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;ol&gt;
 &lt;li&gt;咪咕音乐——中国移动旗下的音乐平台：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;中国移动一直没给人留下啥太好的印象，不过我自己体验了下，发现咪咕音乐其实做的还可以。在将这个前，先科普下国内音乐版权方面的知识：一首歌的版权实际上被分为了互联网版权和通信运营商版权，给互联网公司的是一套互联网的使用权利，给运营商的是运营商的使用权利，二者相互独立互不影响。这也是前几年彩铃时代，中国移动所积攒起来的财富。举个例子：中国移动拥有周杰伦音乐的运营商版权，咪咕音乐作为中国移动旗下产品，自然地获得了其授权，就连欧美版权大户 Taylor Swift 的歌也可以免费听到。另外，咪咕音乐相对其余的几家平台知名度都不高，可能有拓展用户的原因在里面，即使是免费会员也能收听到其他平台可能需要付费才能享受的高音质等，再加上中国移动经常性向其用户赠送诸如0元咪咕定性流量包之类的，在免费听歌方面已经是一个不错的选择。&lt;br /&gt;&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;Apple Music：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;国内的付费音乐服务要推荐的话，我还是会推荐Apple Music，虽然生态过于封闭，但是上面所有的歌曲确实都是有版权的，而且国区定价也极为便宜。由于歌曲是由母带直接转录，部分歌曲甚至会比国内其他平台所宣称的假无损音质更好。不过有时服务器有时候连接比较慢，歌曲切换及加载体验比国内的一些平台要差一些，不知道什么原因。&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;Spotify：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;稍微有一点使用门槛，注册登陆的时候需要科学上网（主要为了确认所在地区，而众所周知，中国大陆并不属于地球），后续听歌国内网络环境就可以正常使用。由于其极为强大的推荐算法，我坚持用了相当长的时间，找到了很多合我口味的歌曲。不过Spotify对于免费用户不是很友好，在某些终端上使用不能指定歌曲播放，不能离线缓存音乐，而且每播放几首歌曲便会插播音频广告且无法跳过，感觉更像是在听收音机的音乐电台。&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;YouTube music：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;某知名404网站提供的服务，使用门槛较高，需要全程科学上网才能使用。虽然Apple Music，Spotify和YouTube music几家平台的版权曲库大概都是4000多万首，不过依托于强大的YouTube平台，除了版权曲库里面的歌曲，所有上传到YouTube的视频音乐（比如官方MV，甚至是用户自制上传等），YouTube music都可以直接播放。所以YouTube music可能是最全的歌曲平台了。而且来自于404服务的生态与整合，音乐推荐方面我个人觉得是最精准的，另外也有可能是最便宜的音乐会员服务了。地区选到印度，个人包月价格大约12元人民币，家庭组（最多6人）包月大约18元人民币，最低可以实现人均3元每月，简直是白给。另外我觉得其实没有桌面客户端也算得上是一个优点，毕竟PWA应用已经可以做到类似客户端的效果，缺点是移动端的话，免费用户不能后台听歌，所以也基本需要开会员。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PC%E7%AB%AFPWA%E5%BA%94%E7%94%A8%E6%95%88%E6%9E%9C&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/5.png&#34; alt=&#34;PC端PWA应用效果&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PC%E7%AB%AFPWA%E5%BA%94%E7%94%A8%E6%95%88%E6%9E%9C&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/5.png&#34; alt=&#34;PC端PWA应用效果&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在几家平台间倾轧了几年后，现在主力使用YouTube music来听歌了，之前在其他几家平台上的歌单也通过第三方的一些服务导入到了YouTube中。还有件比较欣慰的是，用了这么久也没再见过需要额外再付费才能听的歌曲，所以依然很困惑国内音乐平台的某些歌曲额外再付费的业务究竟是版权方单方面单独要求还是有和平台共同提价的猫腻在里面。最近趁着闲暇的时候还把本地存着的一些音乐都整理了下，转换并仅保留了320k mp3格式的音乐，完善了所有的音乐文件信息及音乐封面，用到的一些工具一并整理附于文章末。&lt;/p&gt;
 &lt;p&gt;现在，算是解决了听歌这件小事。&lt;/p&gt;
 &lt;hr&gt;
@@ -687,14 +687,14 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;ul&gt;
 &lt;li&gt;歌单转换及导入：&lt;a href=&#34;https://www.tunemymusic.com/zh-cn/&#34;&gt;https://www.tunemymusic.com/zh-cn/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;歌曲格式转换及管理：&lt;a href=&#34;https://www.foobar2000.org/&#34;&gt;Foobar2000&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;音乐文件信息及音乐封面编辑：&lt;a href=&#34;https://www.mp3tag.de/en/&#34;&gt;Mp3tag&lt;/a&gt;配合豆瓣数据库插件，可以实现自动从豆瓣数据库搜索并修改音乐id3标签信息。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;%E4%BF%AE%E6%94%B9%E6%95%88%E6%9E%9C&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/7.png&#34; alt=&#34;修改效果&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;%E4%BF%AE%E6%94%B9%E6%95%88%E6%9E%9C&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/7.png&#34; alt=&#34;修改效果&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mp3tag及豆瓣数据库插件下载链接：&lt;a href=&#34;https://www.lanzous.com/b00t6x9le&#34;&gt;https://www.lanzous.com/b00t6x9le&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/music/8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;相关使用教程：&lt;a href=&#34;https://c7sky.com/mp3tag-douban-web-source-v2.html&#34;&gt;https://c7sky.com/mp3tag-douban-web-source-v2.html&lt;/a&gt;&lt;/p&gt;
 </description>
                 
@@ -742,7 +742,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/CnSCG/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/CnSCG/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;前天看到了这样一条新闻：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;圣城家园被摧毁——「藏匿于互联网14年之久、网站注册会员达200万人次、点击量达13亿次……12月12日，记者从山西省公安厅获悉，“圣城家园”特大网站侵权盗版案已被山西警方彻底摧毁，目前该案已移送检察机关进行起诉。」&lt;/p&gt;
@@ -800,18 +800,18 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/0.jpg&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mail/0.jpg&#34; alt=&#34;&#34;&gt;
 电子邮箱，几乎是成了每个人网络上的通行证，大部分的网站都建立了以电子邮箱为基础的账户管理体系，电子邮箱服务也确实给我们的生活带来了很多便利。&lt;/p&gt;
 &lt;p&gt;记得我自己当年注册的第一个电子邮箱应该是新浪的邮箱，不过印象中用了较短的一段时间就慢慢废弃了。后来QQ的流行，很多人自然而然的也同时获得了一个与QQ号码一致的QQ邮箱，而QQ邮箱也变成了很多人默认的邮箱并沿用至今。今天聊的内容大概分为两个部分，第一部分是关于各家邮箱优缺点方面的个人主观感受，另一部分是分享下我个人关于邮箱使用的一些想法和建议。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;先说说国内提供的一些邮箱服务，有个总体上的优势是更加本土化及访问速度方面都很快。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mail/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;先说qq邮箱&#34;&gt;先说QQ邮箱：&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;优：绑定QQ，QQ软件内有快捷入口，微信端有邮件提醒，干净无广告，支持额外的邮箱域名后缀（如foxmail）与昵称；&lt;/li&gt;
 &lt;li&gt;劣：部分国外网站不支持以QQ邮箱注册，可能的群邮件或相关由于绑定QQ而导致的邮件骚扰。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mail/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;其次是网易邮箱&#34;&gt;其次是网易邮箱：&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;优：有多种邮箱域名可选注册，较强的垃圾邮件过滤，支持两步验证；&lt;/li&gt;
@@ -820,19 +820,19 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;h4 id=&#34;其他的国内邮箱服务&#34;&gt;其他的国内邮箱服务：&lt;/h4&gt;
 &lt;p&gt;国内其他邮箱用户基数较小，服务与技术更新基本已经停滞，故而均不推荐使用。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mail/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;说完了国内的接下去说下国外的一些首先是大名鼎鼎的gmail&#34;&gt;说完了国内的，接下去说下国外的一些，首先是大名鼎鼎的Gmail：&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;优：极强的广告过滤与邮件分类能力，安全性可靠，功能全面，多终端同步使用方便；&lt;/li&gt;
 &lt;li&gt;劣：国内正常无法访问，但针对已有账号用户，可以设置使用其他邮箱代收Gmail邮件。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mail/4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;其次是outlook&#34;&gt;其次是Outlook：&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;优：超多邮箱域名可选，与windows10天然集成可实现邮件到达win10实时提醒，较强的广告过滤能力，安全性可靠；&lt;/li&gt;
 &lt;li&gt;劣：国内访问网站可能速度较慢，而客户端不受此影响。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mail/5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;最后是protonmail质子邮箱httpsprotonmailcomzh-hans&#34;&gt;最后是&lt;a href=&#34;https://protonmail.com/zh-Hans/&#34;&gt;ProtonMail（质子邮箱）&lt;/a&gt;：&lt;/h4&gt;
 &lt;p&gt;这个相对比较小众，所以先引用百科内容简单介绍下，具体的请点击超链接到其官网上进行查看：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -847,7 +847,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;hr&gt;
 &lt;p&gt;在此，做一个简单的总结，我个人推荐作为主力邮箱来使用的，按推荐程度排序如下：首推的是微软出品的Outlook，各方面都比较优秀；其次是QQ邮箱和ProtonMail，总体优秀，有各自独特的优势；最后是网易邮箱和Gmail，网易邮箱综合还行，但是用户体验较差，也有一些数据库泄露方面的黑历史，而Gmail虽然其实是最优秀的，但国内无法直接访问是硬伤，推荐给有技术条件的人使用。&lt;/p&gt;
 &lt;p&gt;接下来说说，我个人对于邮箱使用的情况。首先，我把需要用到邮箱的情况按重要性大致分为3类。第一类是个人重要账户，用于收取重要的邮件信息，比如收取银行信用卡账单等；第二类是一般账户，收取必要的邮件信息，比如各种app和网站注册或者绑定验证信息等；第三类是毫无价值账户，仅用于获取特定信息而不得不绑定邮箱以收取验证信息，比如某些论坛的资源设置了注册并回复可见，就需要注册个账户来获取特定信息。针对上述的几类需求，我选用了三个邮箱方案来实现。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/mail/6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/mail/6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;先说第三类需求，我在之前写的文章里面也提到了“临时邮箱”这个东西。临时邮箱的话，推荐以下这个：&lt;a href=&#34;https://temp-mail.org/zh/&#34;&gt;Temp-Mail&lt;/a&gt;，打开网站后会自动生成个邮箱地址，可以用于接收网站注册的验证邮件信息，用完就丢，没有任何负担。另外还有一个类似的是由傲游浏览器开发商所提供的邮箱服务——百变邮箱：注册后绑定一个邮箱，同时获得一个个性化的邮箱域名，可以获得无数的邮箱账号来使用。比如注册网站a，用abc@xxx邮箱，收到的邮件会自动转发到绑定的邮箱中。而不想再接收网站a的邮件，将abc@xxx邮箱关闭就好。既保护了自己常用的真实邮箱，又能避免邮件骚扰。我个人将上述两者结合使用几乎可以覆盖所有的第三类需求的场景。&lt;/p&gt;
 &lt;p&gt;至于第二类需求，我个人用的是网易的邮箱，开通两步验证以保证邮箱安全性。一般的各种app或者网站的注册都绑定该邮箱，每周定期集中处理下邮件即可。&lt;/p&gt;
 &lt;p&gt;最后说下第一类需求，我个人使用的是Gmail，并将其设置为了所有银行等金融机构的默认联系邮箱，同时使用ProtonMail作为备用密保邮箱，以防Gmail在某些特殊情况下无法使用，或者丢失两步验证后用于重置信息等。&lt;/p&gt;
@@ -892,14 +892,14 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/0.jpg&#34; alt=&#34;&#34;&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/menu/0.jpg&#34; alt=&#34;&#34;&gt;
 前段时间，微软家新出了款蓝牙键盘，外观设计上面中规中矩，没有太多可说的，不过媒体早前报道会添加Office专用键终于出现了。
-&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/menu/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;原本空格键右侧的 win 键和菜单键被分别替换成了 Office 专用键和表情键。无聊的我去翻看了下有关的文档，微软官方取了个巧，新增加的这两个键并非是单独重新定义了新的键值，而是变成了某几个快捷键的组合。在 Windows10 系统下，比如表情键的功能，实际上我们按 win+；键也能实现同样的效果。而 Office 键就稍微有点复杂，它替代的是 Shift+Ctrl+win+Alt 这四个键的组合，比如 Office+W 会打开 Word ，而 Shift+Ctrl+win+Alt+W 也同样能实现。不过有个 Office 专用键可能还是稍稍方便那么一点点，另外目前 Office 专用键搭配的还不多，官方文档里面我也只看到了 Office+W/T/Y/O/P/D/L/X/N 分别代表打开 Word、Teams、Yammer、Outlook、Power point、Onedrive、LinkedIn、Excel 和Onenote. 最后还有一个比较特别的是 Office+Space（空格）打开的是表情，和表情键的功能一样。至于，后面针对 Office 的各项应用会不会有新的快捷键加入，还得等微软官方后续宣布。&lt;/p&gt;
 &lt;p&gt;看了眼我正在码字的机械键盘，Filco 忍者二代茶轴，难道它不香嘛？独特的侧刻设计没有长时间使用磨损键盘字符的困扰，几年用下来手感依旧很好。在不考虑更新硬件的情况下，又想要享受到新特性，那就只能从软件着手了，而从软件入手的话又顺便能增加些别的功能了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/menu/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我的这款机械键盘是标准的ANSI 104 键盘布局，也是国内市面上主流的键盘布局。然后审视了整个键盘上的按键，最后选中对Menu键（菜单键，有的键盘上显示的是一个鼠标光标悬停在其上方的菜单的标志）下手进行改造。选中它的原因也很简单，距离常用的一些按键近而它本身也非常不常用（因为大多数情况下，菜单键的功能已经被鼠标右键操作所取代了）。
-&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/menu/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;具体采用的方案是 &lt;a href=&#34;https://www.autohotkey.com/&#34;&gt;AutoHotKey&lt;/a&gt;，有个比较知名的类似的方案是 &lt;a href=&#34;https://github.com/OhYee/SpaceFn&#34;&gt;SpaceFn&lt;/a&gt;，大致的做法是用长按 Space 键来实现一般外接键盘上没有的 Fn 键的功能。我自己尝试了下，但是实际使用过程中发现当打字速度较快时，按下 Space 键默认选字输入往往会出现选字不准确的情况。所以我用 AutoHotKey，在借鉴了 SpaceFn 的设计思路上对此进行了一些改造，从而实现了以下的功能：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;保留了正常Menu键单击调用的功能，在支持的窗口中单击Menu键，调出菜单&lt;/li&gt;
@@ -991,7 +991,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
 &lt;p&gt;发布相关内容至 Github： &lt;a href=&#34;https://github.com/gears233/Application-key-to-Office&#34;&gt;https://github.com/gears233/Application-key-to-Office&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;网盘下载链接：&lt;a href=&#34;https://www.lanzous.com/i7guc3i&#34;&gt;https://www.lanzous.com/i7guc3i&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/menu/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/menu/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
                 
                 
@@ -1044,7 +1044,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/password/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/password/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;随着互联网越发发展深入，我们个人作为普通用户上网安全方面能做的除了尽量不透露个人信息外，就是努力设置个安全些的密码了。引用百科上对强密码的定义：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;强密码应该具有如下特征：
@@ -1063,7 +1063,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;国外大型的网站和app基本上都做到了两步验证的支持，一般都可选使用身份验证器，由于两步验证最先是Google捣鼓出来的，所以大多默认会推荐使用Google身份验证器。不过各家验证器用的算法是一致的，所以其实可以只用某个验证器应用就能通吃所有的。但是Google自家开发的验证器应用很久没更新过，而且不支持同步数据，用起来体验并不好。这里我个人推荐的是微软出品的验证器应用Microsoft Authenticator ，最有特色的两点是支持同步和微软应用（包括windows系统）免输密码登陆（需要在验证器上进行批准登陆操作）。尤其是支持同步这点，解决了万一手机丢失等情况出现，所有依赖验证器登陆的网站和应用无法登陆的痛点。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/password/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/password/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;而国内，我常用的一些服务里面，支持上述验证器的只有网易邮箱，坚果云网盘等少数几家。其他的一些互联网巨头都热衷于各自闭门造车，推出自己的单独的密码安全app，比如阿里钱盾，腾讯安全中心啥的...只支持自家的服务，体验极差。不过好在，大多数提供了另外一种两步验证方式-手机短信验证。反正国内都是实名上网，添加个短信验证也无所谓了，不过某些偶然情况下会收不到短信验证码也是挺麻烦的。&lt;/p&gt;
 &lt;p&gt;至于一些小网站或者app，我们就只能设置一个强度高些并且各个网站都不相同的密码才是最安全的了。刚好最近看到一篇趣闻：&lt;a href=&#34;https://www.freebuf.com/news/197414.html&#34;&gt;“ji32k7au4a83”竟然是一个典型弱密码&lt;/a&gt;。原文我就不贴了，有兴趣的可以自己点链接进去看看。而人脑毕竟不是电脑，密码强度太高太复杂，最大的问题就是自己都记不住，一旦忘记就更加麻烦。那么，为什么要靠自己来记忆呢？推荐有志于维护个人密码安全的，可以参考下知乎上的这篇帖子：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1117,7 +1117,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/transfer/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/transfer/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;今天偶然发现了一个还不错的网站-&lt;a href=&#34;https://cowtransfer.com/&#34;&gt;奶牛快传：https://cowtransfer.com&lt;/a&gt;，解决了我日常电脑端和移动端互传文件的一个痛点。先引用网站上的介绍文字来大致说明下ta是干嘛的：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目前传统的文件传输、云存储工具基本上或多或少有着上传或者下载速度受限、强制登录等其他限制，这样一来使用时间成本很高，使用体验欠佳，大大降低了使用效率。奶牛快传就是从「传文件」这个普通的日常行为的痛点中出生的。在文件传输服务2016年上线以来，吸纳了大量来自全球的学生、广告创意、设计行业及互联网相关公司的用户。奶牛快传的操作界面极简，界面中心只留了一个大按钮，添加文件后，文件会被快速上传，随后跳出该文件的下载链接、二维码及小程序码。整个上传过程只需要2-3次交互。&lt;/p&gt;
@@ -1126,7 +1126,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
 &lt;p&gt;所以，最近一直有在尝试寻找一些无需客户端的文件互传方案，最后找到了这个。用下来感觉用户体验真的很棒，网站有着不错的颜值，实际使用过程中手机和电脑端都不需要注册账户，安装客户端就能自由上传最大4G的文件，上传下载不限速，文件72h有效期，文件取件码设计和二维码功能在各终端上使用方便，堪称互联网时代的“文件快递柜”。&lt;/p&gt;
 &lt;p&gt;另外分享两个满足了我其他一些痛点的网盘：&lt;/p&gt;
 &lt;p&gt;蓝奏云：&lt;a href=&#34;https://www.lanzous.com/&#34;&gt;https://www.lanzous.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/transfer/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/transfer/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;与奶牛快传相比的一些优缺点：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;同样提供不限速的上传与下载体验&lt;/li&gt;
@@ -1136,7 +1136,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
 &lt;/ul&gt;
 &lt;p&gt;所以我个人把蓝奏云作为一个长期分享一些小文件的网盘来使用；&lt;/p&gt;
 &lt;p&gt;永硕E盘：&lt;a href=&#34;https://www.ys168.com/&#34;&gt;https://www.ys168.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/blog/image/images/transfer/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/transfer/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;嗯，难以置信都9102年了还有这么丑的网站，甚至比某些政府网站都要丑，但是ta已经稳定提供服务十几年了，可能很多十年以上网龄的人才听说过ta了，但是其实用户群体还是相对比较大的。也许是因为低调，所以能存活了这么长时间。我推荐ta是因其有一个很不错的特性，即：提供二级域名的形式进入网盘空间，类似 http://用户名.ys168.com，进去就是文件列表，有目录结构，存放些小文件也很不错。&lt;/p&gt;
 &lt;p&gt;与奶牛快传相比的一些优缺点：&lt;/p&gt;
 &lt;ul&gt;
