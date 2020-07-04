@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 04 Jul 2020 15:13:14 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2020 15:18:06 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://gears233.github.io/rss.xml" />
         
@@ -38,7 +38,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/0.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/pdfreader/0.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;有段时间没有写点东西了，顺便重新调整了下网站的界面风格，在移动端浏览的体验应该会好一些，虽然其实也没什么人会看就是了。另外由于某些众所周知的原因，并不能放心地将网站部署到国内，所以连接性其实也是个问题，随缘吧。&lt;/p&gt;
 &lt;p&gt;说回正题，&lt;a href=&#34;https://okular.kde.org&#34;&gt;Okular&lt;/a&gt; 是一款来自 KDE 的通用文档阅读器，支持众多文档格式，如 PDF、Postscript、DjVu、CHM、XPS、ePub、图片格式等，可高亮、注释，支持 Windows、macOS 与 Linux。&lt;/p&gt;
 &lt;p&gt;Okular 这个软件，相信大部分人也几乎都没听说过，而我也是最近才知道的。虽然软件可能知名度不高，不过其实它是大名鼎鼎的 KDE 出品的，许多 Linux 发行版的默认桌面环境就是 KDE。&lt;/p&gt;
