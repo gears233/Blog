@@ -8,7 +8,5 @@
 
 欢迎访问：https://gears233.github.io
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
-博客整体内容适用 CC BY-NC-SA 4.0 协议，有需求请单独联系！
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> 博客整体内容适用 CC BY-NC-SA 4.0 协议，有需求请单独联系！
 
