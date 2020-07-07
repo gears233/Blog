@@ -1,4 +1,4 @@
-# <div align="center"><a title="Refun" href="https://github.com/guanqr/blog"><img align="center" src="https://gears233.github.io/image/brand.png"></a> </div>
+# <div align="center"><a title="Refun" href="https://gears233.github.io"><img align="center" src="https://gears233.github.io/image/brand.png"></a> </div>
 
 个人博客：https://gears233.github.io
 
