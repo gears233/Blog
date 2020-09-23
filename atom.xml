@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Refun</title>
     <subtitle type="html">一个兴趣使然的博客...</subtitle>
-    <updated>2020-09-21T13:18:21&#43;00:00</updated>
+    <updated>2020-09-23T04:12:19&#43;00:00</updated>
     <id>https://gears233.github.io/</id>
     <link rel="alternate" type="text/html" href="https://gears233.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://gears233.github.io/atom.xml" />
@@ -17,10 +17,97 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.75.1">Hugo</generator>
         <entry>
+            <title type="text">利用RSS，做信息的主人</title>
+            <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/rss/" />
+            <id>https://gears233.github.io/posts/rss/</id>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
+            <published>2020-07-18T22:11:13&#43;08:00</published>
+            <author>
+                    <name>Gears</name>
+                    <uri>https://gears233.github.io/</uri>
+                    <email>Gears@refun.eu.org</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">利用RSS--Really Simple Syndication（简易信息聚合），高效获取信息</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/rss/0.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;rss-的介绍&#34;&gt;RSS 的介绍&lt;/h1&gt;
+&lt;p&gt;RSS 的全称是 Really Simple Syndication（简易信息聚合），它是一种消息来源的格式规范，网站可以按照这种格式规范提供文章的标题、摘要、全文等信息给订阅用户，用户可以通过订阅不同网站 RSS 链接的方式将不同的信息源进行聚合，在一个工具里阅读这些内容。&lt;/p&gt;
+&lt;p&gt;社交媒体混乱的时间线、聚合阅读工具烦人的算法推荐，都让我们无法高效地获取需要的信息。RSS 将信息的选择权交还给了用户，但 RSS 并不是什么新玩意，20多年前就有了。之前看到有人大致做了个关于即刻的类比，感觉也能用来描述 RSS：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;RSS 是对你信任的网站的订阅，微博是对你信任的人的订阅，即刻是对你感兴趣的话题的订阅。by &lt;a href=&#34;https://sspai.com/u/haohuai/updates&#34;&gt;浩槐&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;rss-订阅的获取方式&#34;&gt;RSS 订阅的获取方式&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/rss/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一般如果你能在网站上看到 RSS 字样或类似上面的放射状的图标，那么这个网站自己就直接提供了 RSS 的订阅链接，例如本站的 RSS 订阅链接为： &lt;a href=&#34;https://gears233.github.io/rss.xml&#34;&gt;https://gears233.github.io/rss.xml&lt;/a&gt; 这个在网页底部信息中可以找到。复制这个链接，添加到 RSS 阅读工具内即可，具体的工具会在下文中介绍。&lt;/p&gt;
+&lt;h2 id=&#34;获取-rss-订阅的辅助工具&#34;&gt;获取 RSS 订阅的辅助工具&lt;/h2&gt;
+&lt;p&gt;由于不少网站基于广告流量或者自家 App 推广等方面的考量，愿意直接提供 RSS 订阅链接的网站还是比较少的，所以就有人开发了辅助获取 RSS 订阅链接的工具。&lt;/p&gt;
+&lt;p&gt;比较知名的是 RSSHub 项目，作者同时开发了相应的浏览器插件 -- RSSHub Radar，可以实现很多&lt;del&gt;奇怪&lt;/del&gt;有趣的订阅功能。浏览器插件可以帮助你快速发现和订阅当前网站 RSS ，RSSHub 项目网站上也提供了很多可以直接拿来用的方式，例如订阅 B 站某 UP 主的投稿等，具体的请参看 &lt;a href=&#34;https://docs.rsshub.app/social-media.html&#34;&gt;https://docs.rsshub.app/social-media.html&lt;/a&gt; 后食用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/rss/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;另外一个我比较推荐尝试的是 &lt;a href=&#34;https://feed43.com/&#34;&gt;Feed43&lt;/a&gt; 提供的服务，在目标页面满足一定规则的情况下，可以将任意网页制作成 RSS 订阅源。这个已经有人写过详细的教程，我就不再赘述，请参看：&lt;a href=&#34;https://sspai.com/post/34320&#34;&gt;https://sspai.com/post/34320&lt;/a&gt; ，虽然乍一看有一堆代码啥的，但是实际实践起来更像是在做找规律题。&lt;/p&gt;
+&lt;p&gt;最后，还有个小工具：&lt;a href=&#34;https://distill.io/&#34;&gt;distill.io&lt;/a&gt; ,虽然可能和 RSS 没有太大关系，但是也是提供了类似的订阅功能。哦不，可能描述为监控更为贴切一些，支持多种提醒方式，我也经常会用其浏览器插件来监控一些网页内容的变化情况，可以一试。&lt;/p&gt;
+&lt;h1 id=&#34;支持-rss-订阅与阅读的工具&#34;&gt;支持 RSS 订阅与阅读的工具&lt;/h1&gt;
+&lt;p&gt;RSS 订阅与阅读的工具，一般叫做 RSS 阅读器，但是我个人还是不怎么习惯这个称呼，总觉得如果被称作阅读器了就是指代某款 App 或者专门的电子设备了。Google Reader 阅读器在当年可能是最流行的服务了，在 2013 年关闭服务后，现在流行的部分阅读器才慢慢登上舞台。国内也有过如 抓虾、鲜果等 RSS 订阅阅读器，但后来因各种原因也都停止了服务。目前做的比较好的提供在线服务有 &lt;a href=&#34;https://feedly.com/&#34;&gt;Feedly&lt;/a&gt;、&lt;a href=&#34;https://www.inoreader.com/&#34;&gt;Inoreader&lt;/a&gt; 和 &lt;a href=&#34;https://www.newsblur.com/&#34;&gt;NewsBlur&lt;/a&gt; 这几家吧，虽然这仅是我个人主观判断，难免有些偏颇。以上介绍的几家都是提供在线服务的，也有官方或者第三方的 App 可供移动端使用。另外也有些专门做客户端的比如 ios 端知名的 Reeder 等，大部分是依赖于本地设备自行抓取或者兼容使用上述几家在线服务。&lt;/p&gt;
+&lt;p&gt;由于个人一直觉得移动端的 RSS 内容阅读实在是难言效率，一直以来我基本都在 PC 端浏览器网页内阅读。而上面提到的这3家中，NewsBlur 我仅仅使用了很短的时间，主要还是不习惯其界面风格，无法做太多评价。而 Feedly 与 Inoreader 我前后各自使用了2年以上的时间，最终我选择从 Feedly 转到了 Inoreader 并使用至今。需要首先声明的是，我仅为此两者的免费用户，对比两者，简单说下我转换的原因。Feedly 与 Inoreader 都是各具特色的浏览器，基本的阅读体验都还不错，但是 Feedly 对于免费用户来说有个很大的功能性缺失：免费用户无法在自己订阅的所有 feed 中搜索。同时，保存到 Pocket 、OneNote 和 Evernote 等也都需要付费才能使用。本来保存功能也不算什么，以前我都是习惯添加浏览器书签的，但是后来发现不少书签收藏的网页内容消失后就开始使用 OneNote 进行全文保存了，于是这也慢慢成为了我使用中的一个痛点。不过，那时的 Inoreader 界面也并不那么「现代化」，所以这也是我一开始选择 Feedly 的原因，而 Inoreader 自今年初更新 v13 版本后，界面方面也已经跟上了。&lt;/p&gt;
+&lt;p&gt;如果网络上的各种 RSS 服务尝试下来都无法满足你的需求，或者使用某项特定功能而开通订阅的费用使人望而却步，万能的互联网也提供了诸如 &lt;a href=&#34;https://tt-rss.org/&#34;&gt;Tiny Tiny RSS&lt;/a&gt; 这样的自建服务选择，当然这也需要你有一定的动手能力。&lt;/p&gt;
+&lt;h2 id=&#34;关于-inoreader-的一些提示&#34;&gt;关于 Inoreader 的一些提示&lt;/h2&gt;
+&lt;p&gt;由于我目前固定在用的是 Inoreader ，对 Feedly 目前的状况缺乏足够的了解，所以以下仅能针对想要尝试或者已经在使用 Inoreader 的用户说几点建议。&lt;/p&gt;
+&lt;h3 id=&#34;inoreader-在国内访问困难的问题&#34;&gt;Inoreader 在国内访问困难的问题&lt;/h3&gt;
+&lt;p&gt;由于某些原因， Inoreader 在国内访问困难或者无法访问，官方在原网站地址的基础上额外提供了一个备用的选择。原网址：&lt;a href=&#34;https://www.inoreader.com&#34;&gt;https://www.inoreader.com&lt;/a&gt; ，备用网址： &lt;a href=&#34;https://www.innoreader.com&#34;&gt;https://www.innoreader.com&lt;/a&gt; . 【两者网址差了一个 n 】，备用网址可能也会出现加载比较慢的问题，但是目前还不至于不能用，或者你需要搭配其他科学工具了。&lt;/p&gt;
+&lt;h3 id=&#34;inoreader-部分订阅内容图片显示问题&#34;&gt;Inoreader 部分订阅内容图片显示问题&lt;/h3&gt;
+&lt;p&gt;由于部分网站设置了图片防盗链，会误伤到 Inoreader 导致订阅图片无法正常显示，需要搭配脚本通过强制全站不发送 referrer，实现显示防盗链图片。脚本：&lt;a href=&#34;https://greasyfork.org/zh-CN/scripts/376884-%E6%98%BE%E7%A4%BA%E9%98%B2%E7%9B%97%E9%93%BE%E5%9B%BE%E7%89%87-for-inoreader&#34;&gt;显示防盗链图片 for Inoreader&lt;/a&gt; ,需要配合浏览器的用户脚本管理器插件使用，具体请参看：&lt;a href=&#34;https://greasyfork.org/zh-CN&#34;&gt;https://greasyfork.org/zh-CN&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;inoreader-免费用户广告问题&#34;&gt;Inoreader 免费用户广告问题&lt;/h3&gt;
+&lt;p&gt;诚然，如 Adblock / uBlock Origin 等已经成为了浏览器标配插件了，默认情况下也能阻止 Inoreader 的广告显示，但是会有空间留白等问题。虽然关于广告屏蔽插件的使用也一直有些争议，但是还是交给用户自己来判断吧。整理了相关的屏蔽规则，可供参考选用，规则如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;www.inoreader.com###no_article_selected &amp;gt; div
+www.inoreader.com##[class^=&amp;quot;ad_title&amp;quot;]
+www.inoreader.com##[id^=&amp;quot;leaderboard_ad-&amp;quot;]
+www.inoreader.com##[id^=&amp;quot;sinner_container&amp;quot;]
+www.inoreader.com##[id^=&amp;quot;reader_pane&amp;quot;]:style(padding-right:0px !important)
+www.inoreader.com##[id^=&amp;quot;no_more_div&amp;quot;]:style(height: 100% !important;)
+www.inoreader.com##div[class^=&amp;quot;ad_title ad_title_centered&amp;quot;]
+www.inoreader.com##div[id*=&amp;quot;leaderboard_ad&amp;quot;]
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;最后，其实本文还缺少了最重要的一个部分没有写，那就是：去哪儿找优质的阅读内容呢? 由于我个人的选择并不具有普适性，还请自行随缘收集吧，也欢迎前往评论区分享。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://gears233.github.io/categories/%E5%A5%BD%E7%89%A9%E5%88%86%E4%BA%AB/" term="好物分享" label="好物分享" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://gears233.github.io/tags/rss/" term="RSS" label="RSS" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://gears233.github.io/tags/%E9%98%85%E8%AF%BB%E5%99%A8/" term="阅读器" label="阅读器" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">推荐款自由的PDF阅读器：Okular</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/pdfreader/" />
             <id>https://gears233.github.io/posts/pdfreader/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2020-07-04T21:02:58&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -88,7 +175,7 @@
             <title type="text">为你的头像戴上口罩</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/mask/" />
             <id>https://gears233.github.io/posts/mask/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2020-01-23T08:45:10&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -146,7 +233,7 @@
             <title type="text">在Chrome浏览器中手动安装与更新第三方拓展</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/chrome/" />
             <id>https://gears233.github.io/posts/chrome/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2020-01-21T08:32:17&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -300,7 +387,7 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
             <title type="text">人人网回归，可以去备份你的黑历史了！</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/renren/" />
             <id>https://gears233.github.io/posts/renren/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2020-01-13T08:23:57&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -421,7 +508,7 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
             <title type="text">500&#43; 免费的中文编程电子书</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/programming/" />
             <id>https://gears233.github.io/posts/programming/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2020-01-11T08:00:29&#43;08:00</published>
             <author>
                     <name>小众软件：青小蛙</name>
@@ -575,7 +662,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
             <title type="text">一个能在线生成gif表情包的网站</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/meme/" />
             <id>https://gears233.github.io/posts/meme/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-12-31T07:47:22&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -641,7 +728,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
             <title type="text">聊聊个人信用的话题</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/credit/" />
             <id>https://gears233.github.io/posts/credit/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-12-19T18:36:39&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -718,7 +805,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
             <title type="text">聊聊听歌这件小事</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/music/" />
             <id>https://gears233.github.io/posts/music/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-12-18T18:48:07&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -813,7 +900,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
             <title type="text">又一扇窗被关闭：“圣城家园”被摧毁有感</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/cnscg/" />
             <id>https://gears233.github.io/posts/cnscg/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-12-16T18:23:06&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -874,7 +961,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
             <title type="text">聊聊互联网安全与隐私-电子邮箱篇</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/mail/" />
             <id>https://gears233.github.io/posts/mail/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-12-10T17:33:40&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -969,7 +1056,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
             <title type="text">让Menu键从冷板凳上站起来</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/menu/" />
             <id>https://gears233.github.io/posts/menu/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-11-20T17:23:08&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -1124,7 +1211,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
             <title type="text">随便聊聊互联网安全与隐私-密码篇</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/password/" />
             <id>https://gears233.github.io/posts/password/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-11-18T14:34:19&#43;08:00</published>
             <author>
                     <name>Gears</name>
@@ -1200,7 +1287,7 @@ F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
             <title type="text">互联网时代的文件快递柜</title>
             <link rel="alternate" type="text/html" href="https://gears233.github.io/posts/transfer/" />
             <id>https://gears233.github.io/posts/transfer/</id>
-            <updated>2020-09-21T21:17:49&#43;08:00</updated>
+            <updated>2020-09-23T12:11:42&#43;08:00</updated>
             <published>2019-11-17T14:34:19&#43;08:00</published>
             <author>
                     <name>Gears</name>
