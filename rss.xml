@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 25 Sep 2020 00:58:22 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2020 03:53:00 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://gears233.github.io/rss.xml" />
         
@@ -675,7 +675,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在下面的文本框中手动输入所需要修改的文字，部分不需要修改文字的部分可以留空。填写完后点击生成，过几秒后一个动图表情就生成好了，点击下载，保存到本地。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/5.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/meme/5.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;相对于普通用户来说已经足够简单，手机端也能简单操作完成，降低了使用的门槛。而对于更加追求个性化的用户来说，可以注册个账号，注册登陆后生成的表情不仅会保存到账户下，还可以使用自定义上传模板及修改的功能，具体上传方法的教程视频如下：&lt;a href=&#34;https://www.bilibili.com/video/av43293295/&#34;&gt;https://www.bilibili.com/video/av43293295/&lt;/a&gt; 有需求的可以自行前往了解。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Have fun！&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -827,7 +827,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;/ol&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;某知名404网站提供的服务，使用门槛较高，需要全程科学上网才能使用。虽然Apple Music，Spotify和YouTube music几家平台的版权曲库大概都是4000多万首，不过依托于强大的YouTube平台，除了版权曲库里面的歌曲，所有上传到YouTube的视频音乐（比如官方MV，甚至是用户自制上传等），YouTube music都可以直接播放。所以YouTube music可能是最全的歌曲平台了。而且来自于404服务的生态与整合，音乐推荐方面我个人觉得是最精准的，另外也有可能是最便宜的音乐会员服务了。地区选到印度，个人包月价格大约12元人民币，家庭组（最多6人）包月大约18元人民币，最低可以实现人均3元每月，简直是白给。另外我觉得其实没有桌面客户端也算得上是一个优点，毕竟PWA应用已经可以做到类似客户端的效果，缺点是移动端的话，免费用户不能后台听歌，所以也基本需要开会员。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PC%E7%AB%AFPWA%E5%BA%94%E7%94%A8%E6%95%88%E6%9E%9C&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/5.png&#34; alt=&#34;PC端PWA应用效果&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/5.png&#34; alt=&#34;PC端PWA应用效果&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在几家平台间倾轧了几年后，现在主力使用YouTube music来听歌了，之前在其他几家平台上的歌单也通过第三方的一些服务导入到了YouTube中。还有件比较欣慰的是，用了这么久也没再见过需要额外再付费才能听的歌曲，所以依然很困惑国内音乐平台的某些歌曲额外再付费的业务究竟是版权方单方面单独要求还是有和平台共同提价的猫腻在里面。最近趁着闲暇的时候还把本地存着的一些音乐都整理了下，转换并仅保留了320k mp3格式的音乐，完善了所有的音乐文件信息及音乐封面，用到的一些工具一并整理附于文章末。&lt;/p&gt;
 &lt;p&gt;现在，算是解决了听歌这件小事。&lt;/p&gt;
 &lt;hr&gt;
@@ -840,7 +840,7 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;li&gt;歌曲格式转换及管理：&lt;a href=&#34;https://www.foobar2000.org/&#34;&gt;Foobar2000&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;音乐文件信息及音乐封面编辑：&lt;a href=&#34;https://www.mp3tag.de/en/&#34;&gt;Mp3tag&lt;/a&gt;配合豆瓣数据库插件，可以实现自动从豆瓣数据库搜索并修改音乐id3标签信息。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;%E4%BF%AE%E6%94%B9%E6%95%88%E6%9E%9C&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/7.png&#34; alt=&#34;修改效果&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/7.png&#34; alt=&#34;修改效果&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Mp3tag及豆瓣数据库插件下载链接：&lt;a href=&#34;https://www.lanzous.com/b00t6x9le&#34;&gt;https://www.lanzous.com/b00t6x9le&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/gears233/gears233.github.io/image/images/music/8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;相关使用教程：&lt;a href=&#34;https://c7sky.com/mp3tag-douban-web-source-v2.html&#34;&gt;https://c7sky.com/mp3tag-douban-web-source-v2.html&lt;/a&gt;&lt;/p&gt;
