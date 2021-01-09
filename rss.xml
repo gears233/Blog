@@ -10,7 +10,7 @@
         <title>Refun</title>
         <link>https://gears233.github.io/</link>
         <description>一个兴趣使然的博客...</description>
-        <generator>Hugo 0.75.1 https://gohugo.io/</generator>
+        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 30 Sep 2020 01:47:31 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 06:31:32 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://gears233.github.io/rss.xml" />
         
