@@ -10,7 +10,7 @@
         <title>Refun</title>
         <link>https://gears233.github.io/</link>
         <description>一个兴趣使然的博客...</description>
-        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.95.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 09 Jan 2021 06:33:33 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 11:13:25 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://gears233.github.io/rss.xml" />
         
@@ -66,14 +66,14 @@
 &lt;p&gt;由于部分网站设置了图片防盗链，会误伤到 Inoreader 导致订阅图片无法正常显示，需要搭配脚本通过强制全站不发送 referrer，实现显示防盗链图片。脚本：&lt;a href=&#34;https://greasyfork.org/zh-CN/scripts/376884-%E6%98%BE%E7%A4%BA%E9%98%B2%E7%9B%97%E9%93%BE%E5%9B%BE%E7%89%87-for-inoreader&#34;&gt;显示防盗链图片 for Inoreader&lt;/a&gt; ,需要配合浏览器的用户脚本管理器插件使用，具体请参看：&lt;a href=&#34;https://greasyfork.org/zh-CN&#34;&gt;https://greasyfork.org/zh-CN&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;inoreader-免费用户广告问题&#34;&gt;Inoreader 免费用户广告问题&lt;/h4&gt;
 &lt;p&gt;诚然，如 Adblock / uBlock Origin 等已经成为了浏览器标配插件了，默认情况下也能阻止 Inoreader 的广告显示，但是会有空间留白等问题。虽然关于广告屏蔽插件的使用也一直有些争议，但是还是交给用户自己来判断吧。整理了相关的屏蔽规则，可供参考选用，规则如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;www.inoreader.com###no_article_selected &amp;gt; div
-www.inoreader.com##[class^=&amp;quot;ad_title&amp;quot;]
-www.inoreader.com##[id^=&amp;quot;leaderboard_ad-&amp;quot;]
-www.inoreader.com##[id^=&amp;quot;sinner_container&amp;quot;]
-www.inoreader.com##[id^=&amp;quot;reader_pane&amp;quot;]:style(padding-right:0px !important)
-www.inoreader.com##[id^=&amp;quot;no_more_div&amp;quot;]:style(height: 100% !important;)
-www.inoreader.com##div[class^=&amp;quot;ad_title ad_title_centered&amp;quot;]
-www.inoreader.com##div[id*=&amp;quot;leaderboard_ad&amp;quot;]
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;www.inoreader.com###no_article_selected &amp;gt; div
+www.inoreader.com##[class^=&amp;#34;ad_title&amp;#34;]
+www.inoreader.com##[id^=&amp;#34;leaderboard_ad-&amp;#34;]
+www.inoreader.com##[id^=&amp;#34;sinner_container&amp;#34;]
+www.inoreader.com##[id^=&amp;#34;reader_pane&amp;#34;]:style(padding-right:0px !important)
+www.inoreader.com##[id^=&amp;#34;no_more_div&amp;#34;]:style(height: 100% !important;)
+www.inoreader.com##div[class^=&amp;#34;ad_title ad_title_centered&amp;#34;]
+www.inoreader.com##div[id*=&amp;#34;leaderboard_ad&amp;#34;]
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;最后，其实本文还缺少了最重要的一个部分没有写，那就是：去哪儿找优质的阅读内容呢? 由于我个人的选择并不具有普适性，还请自行随缘收集吧，也欢迎前往评论区分享。&lt;/p&gt;
 </description>
                 
@@ -260,26 +260,26 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;reg add HKLM&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;OFTWARE&lt;span class=&#34;se&#34;&gt;\P&lt;/span&gt;olicies&lt;span class=&#34;se&#34;&gt;\G&lt;/span&gt;oogle&lt;span class=&#34;se&#34;&gt;\C&lt;/span&gt;hrome&lt;span class=&#34;se&#34;&gt;\E&lt;/span&gt;xtensionInstallWhitelist /v &lt;span class=&#34;m&#34;&gt;99999&lt;/span&gt; /t reg_sz /d dmmjlmbkigbgpnjfiimhlnbnmppjhpea /f
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg add HKLM&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;OFTWARE&lt;span class=&#34;se&#34;&gt;\P&lt;/span&gt;olicies&lt;span class=&#34;se&#34;&gt;\G&lt;/span&gt;oogle&lt;span class=&#34;se&#34;&gt;\C&lt;/span&gt;hrome&lt;span class=&#34;se&#34;&gt;\E&lt;/span&gt;xtensionInstallWhitelist /v &lt;span class=&#34;m&#34;&gt;99999&lt;/span&gt; /t reg_sz /d dmmjlmbkigbgpnjfiimhlnbnmppjhpea /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;或将以下内容保存为 &lt;em&gt;addWhitelist.reg&lt;/em&gt; 文件，然后双击导入注册表：&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;Windows Registry Editor Version 5.00
-
-&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;HKEY_LOCAL_MACHINE&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;OFTWARE&lt;span class=&#34;se&#34;&gt;\P&lt;/span&gt;olicies&lt;span class=&#34;se&#34;&gt;\G&lt;/span&gt;oogle&lt;span class=&#34;se&#34;&gt;\C&lt;/span&gt;hrome&lt;span class=&#34;se&#34;&gt;\E&lt;/span&gt;xtensionInstallWhitelist&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;99999&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;dmmjlmbkigbgpnjfiimhlnbnmppjhpea&amp;#34;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Windows Registry Editor Version 5.00
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;HKEY_LOCAL_MACHINE&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;OFTWARE&lt;span class=&#34;se&#34;&gt;\P&lt;/span&gt;olicies&lt;span class=&#34;se&#34;&gt;\G&lt;/span&gt;oogle&lt;span class=&#34;se&#34;&gt;\C&lt;/span&gt;hrome&lt;span class=&#34;se&#34;&gt;\E&lt;/span&gt;xtensionInstallWhitelist&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;99999&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;dmmjlmbkigbgpnjfiimhlnbnmppjhpea&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;其中：&lt;/p&gt;
 &lt;ul&gt;
@@ -417,32 +417,32 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;p&gt;简化下就是在打开的窗口下依次输入，等待完成后，打开生成的backup.tar压缩包里面的 index.html 网页就能看到你的备份内容了。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;n&#34;&gt;renrenBackup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;exe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;e&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;你的邮箱账号&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;你的密码&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;g&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;
-&lt;span class=&#34;n&#34;&gt;renrenBackup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;exe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;f&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;backup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tar&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;renrenBackup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;exe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;e&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;你的邮箱账号&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;你的密码&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;g&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;renrenBackup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;exe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;f&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;backup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tar&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;macOS 与 Linux 系统下：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;操作类似，不过不需要下载上述的文件了，只需要在命令终端内输入如下内容即可，不再赘述。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;n&#34;&gt;virtualenv&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;env&lt;/span&gt;
-&lt;span class=&#34;n&#34;&gt;source&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;env&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;bin&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;activate&lt;/span&gt;
-&lt;span class=&#34;n&#34;&gt;pip&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;r&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;requirements&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;txt&lt;/span&gt;
-&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;manage&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;py&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;e&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;你的邮箱账号&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;你的密码&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;g&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;
-&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;manage&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;py&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;f&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;backup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tar&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;virtualenv&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;env&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;source&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;env&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;bin&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;activate&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;pip&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;r&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;requirements&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;txt&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;manage&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;py&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;e&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;你的邮箱账号&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;你的密码&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;g&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;manage&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;py&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;f&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;backup&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tar&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;根据Github上开发者的介绍，命令中所含的参数分别代表着：&lt;/p&gt;
 &lt;ul&gt;
@@ -457,11 +457,11 @@ Chrome自2008年9月以来，已经走过了11个年头，从&lt;a href=&#34;htt
 &lt;p&gt;所以，比如要指定抓取某人的状态，那么执行&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;manage&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;py&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;e&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;email&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;@renren.com&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;passwordAtRenren&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;u&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;12345&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;manage&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;py&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;e&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;email&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;@renren&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;passwordAtRenren&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;u&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;12345&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;就可以了。因为目前 -b 日志功能暂时有些问题，所以工具只能抓取状态、留言、相册等内容，可以去关注下开发者，等待后续修复。当然，也不排除人人网站后续再有什么改动导致这个工具失效，所以趁着这段时间还能用，及时备份下自己曾经的黑历史还是不错的。&lt;/p&gt;
 </description>
@@ -1057,16 +1057,16 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;p&gt;最后，我将其打包成了一个可执行文件，附在了文末的网盘链接内。双击运行即可实现上述功能，为避免麻烦，请有需要的用户下载后确定一个存放位置，然后创建快捷方式，将这个快捷方式移动到&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;%USERPROFILE%&lt;span class=&#34;se&#34;&gt;\A&lt;/span&gt;ppData&lt;span class=&#34;se&#34;&gt;\R&lt;/span&gt;oaming&lt;span class=&#34;se&#34;&gt;\M&lt;/span&gt;icrosoft&lt;span class=&#34;se&#34;&gt;\W&lt;/span&gt;indows&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;tart Menu&lt;span class=&#34;se&#34;&gt;\P&lt;/span&gt;rograms&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;tartup（打开资源管理器，在地址栏内复制粘贴）
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;%USERPROFILE%&lt;span class=&#34;se&#34;&gt;\A&lt;/span&gt;ppData&lt;span class=&#34;se&#34;&gt;\R&lt;/span&gt;oaming&lt;span class=&#34;se&#34;&gt;\M&lt;/span&gt;icrosoft&lt;span class=&#34;se&#34;&gt;\W&lt;/span&gt;indows&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;tart Menu&lt;span class=&#34;se&#34;&gt;\P&lt;/span&gt;rograms&lt;span class=&#34;se&#34;&gt;\S&lt;/span&gt;tartup（打开资源管理器，在地址栏内复制粘贴）
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt; 即可实现开机自动启动，启动后只会在任务栏显示一个小的图标，右击图标可以退出或暂停。目前仅实现了上述功能，如有其他需求，请在评论区留言，后续可能会增加。另外附上相关的代码，有兴趣的可以参考&lt;a href=&#34;https://www.autohotkey.com/&#34;&gt;AutoHotKey&lt;/a&gt;的相关规则自行修改与定义。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
@@ -1100,39 +1100,39 @@ Photo by &lt;a href=&#34;https://unsplash.com/@henry_be?utm_source=unsplash&amp
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#inputlevel,2&lt;/span&gt;
-&lt;span class=&#34;nv&#34;&gt;$APPSKEY&lt;/span&gt;::
-    SetMouseDelay -1
-    Send &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;Blind&lt;span class=&#34;o&#34;&gt;}{&lt;/span&gt;F24 DownR&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
-    KeyWait, APPSKEY
-    Send &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;Blind&lt;span class=&#34;o&#34;&gt;}{&lt;/span&gt;F24 up&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; MsgBox, %A_ThisHotkey%-%A_TimeSinceThisHotkey%
-    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;A_ThisHotkey&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$APPSKEY&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt; and A_TimeSinceThisHotkey&amp;lt;300&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
-        Send &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;Blind&lt;span class=&#34;o&#34;&gt;}{&lt;/span&gt;APPSKEY DownR&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;
-&lt;span class=&#34;c1&#34;&gt;#inputlevel,1&lt;/span&gt;
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; PrintScreen::Media_Prev
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; ScrollLock::Media_Play_Pause
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Break::Media_Next
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; PgUp::Volume_Up
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; PgDn::Volume_Down
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; NumLock::Volume_Mute
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; W::#^!+W
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; T::#^!+T
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Y::#^!+Y
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; O::#^!+O
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; P::#^!+P
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; D::#^!+D
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; L::#^!+L
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; X::#^!+X
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; N::#^!+N
-F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
-&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;Ctrl+S 重加载
-&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; ~^s::
-&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; sleep &lt;span class=&#34;m&#34;&gt;500&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; Reload
-&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#inputlevel,2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;$APPSKEY&lt;/span&gt;::
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    SetMouseDelay -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Send &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;Blind&lt;span class=&#34;o&#34;&gt;}{&lt;/span&gt;F24 DownR&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    KeyWait, APPSKEY
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Send &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;Blind&lt;span class=&#34;o&#34;&gt;}{&lt;/span&gt;F24 up&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; MsgBox, %A_ThisHotkey%-%A_TimeSinceThisHotkey%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;A_ThisHotkey&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$APPSKEY&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt; and A_TimeSinceThisHotkey&amp;lt;300&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        Send &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;Blind&lt;span class=&#34;o&#34;&gt;}{&lt;/span&gt;APPSKEY DownR&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#inputlevel,1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; PrintScreen::Media_Prev
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; ScrollLock::Media_Play_Pause
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Break::Media_Next
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; PgUp::Volume_Up
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; PgDn::Volume_Down
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; NumLock::Volume_Mute
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; W::#^!+W
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; T::#^!+T
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Y::#^!+Y
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; O::#^!+O
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; P::#^!+P
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; D::#^!+D
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; L::#^!+L
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; X::#^!+X
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; N::#^!+N
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;F24 &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; Space::#^!+Space
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;Ctrl+S 重加载
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; ~^s::
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; sleep &lt;span class=&#34;m&#34;&gt;500&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; Reload
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;hr&gt;
 &lt;p&gt;2020.2.27 Update：&lt;/p&gt;
