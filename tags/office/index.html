@@ -3,7 +3,10 @@
     <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
     <meta charset="UTF-8" />
 
-    <meta name="generator" content="Hugo 0.110.0"><meta name="theme-color" content="#fff" />
+    <meta name="generator" content="Hugo 0.119.0"><meta name="theme-color" content="#fff" />
+    <meta name="color-scheme" content="light dark">
+
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
@@ -14,11 +17,11 @@
 
     <title>Tags: Office | Refun</title>
 
-    <link rel="stylesheet" href="/css/meme.min.31f6ca05dd92669eb34f68c2b1e944e630aa9fb6cd216bca9a73a06eeaf7c820.css" integrity="sha256-MfbKBd2SZp6zT2jCselE5jCqn7bNIWvKmnOgbur3yCA=" />
+    <link rel="stylesheet" href="/css/meme.min.a1ce956f4741abef03987935de673ccaf47e7d1a6bfa8c7c7c7db8fbcf954996.css"/>
 
     
     
-        <script src="/js/meme.min.ad2ae01cef5c5daf54f7c9f6e7d0de97d774f339a2f0f9a68a37c89f5719503a.js" integrity="sha256-rSrgHO9cXa9U98n259Del9d08zmi8PmmijfIn1cZUDo="></script>
+        <script src="/js/meme.min.6f8f28239936721292fa155b24383bf977ba1b220d9cdce034508f720815db00.js"></script>
 
     
 
@@ -34,7 +37,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-title" content="Refun" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="application-name" content="Refun" />
     <meta name="msapplication-starturl" content="../../" />
@@ -54,7 +57,7 @@
         "@context": "https://schema.org",
         "@type": "WebPage",
         "datePublished": "2019-10-27T00:12:34+56:00",
-        "dateModified": "2023-01-26T18:54:18+08:00",
+        "dateModified": "2023-10-04T18:45:41+08:00",
         "url": "https://gears233.github.io/tags/office/",
         "name": "Tags: Office",
         "description": "一个兴趣使然的博客...",
@@ -111,6 +114,9 @@
 
 
 
+
+    
+    
 
     
 </head>
@@ -193,7 +199,6 @@
 
             
             
-    
         <main class="main list" id="main">
             <div class="main-inner">
                 <div class="content list-group">
@@ -292,7 +297,7 @@
             
     <footer id="footer" class="footer">
         <div class="footer-inner">
-            <div class="site-info">©&nbsp;2019–2023&nbsp;<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon footer-icon"><path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/></svg>&nbsp;Gears</div><div class="powered-by">Powered by <a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener">Hugo</a> | Theme is <a href="https://github.com/reuixiy/hugo-theme-meme" target="_blank" rel="noopener">MemE</a></div>
+            <div class="site-info">©&nbsp;2019–2023&nbsp;<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon footer-icon"><path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/></svg></div><div class="powered-by">Powered by <a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener">Hugo</a> | Theme is <a href="https://github.com/reuixiy/hugo-theme-meme" target="_blank" rel="noopener">MemE</a></div>
 
             
 
@@ -337,7 +342,10 @@
     <script src="https://cdn.jsdelivr.net/npm/medium-zoom@latest/dist/medium-zoom.min.js"></script>
 
 <script>
-    mediumZoom(document.querySelectorAll('div.post-body img'), {
+    let imgNodes = document.querySelectorAll('div.post-body img');
+    imgNodes = Array.from(imgNodes).filter(node => node.parentNode.tagName !== "A");
+
+    mediumZoom(imgNodes, {
         background: 'hsla(var(--color-bg-h), var(--color-bg-s), var(--color-bg-l), 0.95)'
     })
 </script>
@@ -345,8 +353,7 @@
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/instant.page@3.0.0/instantpage.min.js" type="module" defer></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js" type="module" defer></script>
 
 
 
